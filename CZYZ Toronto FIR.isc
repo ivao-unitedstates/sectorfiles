@@ -47,6 +47,7 @@ F;airspace\control_zones.artcc
 [GEO]
 F;geo\coast.geo
 F;cyyz_txicenterlines.geo
+F;cyhm_txicenterlines.geo
 //APP MAPS
 //F;app\cyyz_app.geo
 
