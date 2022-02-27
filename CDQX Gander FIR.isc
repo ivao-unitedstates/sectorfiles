@@ -43,15 +43,18 @@ F;airac\awlow_czqm.awl
 
 [ARTCC]
 F;airspace\czqm.artcc
-F;airspace\czqm_low.artcc
 F;airspace\czqx_high.artcc
-F;airspace\cyhz_app.artcc
-F;airspace\tca.artcc
+
 
 [ARTCC HIGH]
-F;airspace\czqm_high.artcc
+F;airspace\czqm_low.artcc
+F;airspace\cdqx_low.artcc
+
 [ARTCC LOW]
+F;airspace\tca.artcc
 F;airspace\cz.artcc
+
+
 
 [GEO]
 F;coastline.geo
