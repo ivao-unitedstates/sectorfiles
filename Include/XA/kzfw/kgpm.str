@@ -1,5 +1,5 @@
 // KGPM STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KGPM Approaches
 
@@ -13,7 +13,7 @@ CUXPI;CUXPI;@1211;
 
 KGPM;36;GA RNV36;KGPM;KGPM;5;
 NAHMU;NAHMU;<br>;
-NAHMU;NAHMU;^2300;
+NAHMU;NAHMU;^2400;
 //// END RNV36 ////
 
 //// VOR36 ////
@@ -24,8 +24,8 @@ HIYZE;HIYZE;@2000;
 JIPED;JIPED;@1204;
 
 KGPM;36;GA VOR36;KGPM;KGPM;5;
-NAHMU;NAHMU;<br>;
-NAHMU;NAHMU;^2300;
+TILLA;TILLA;<br>;
+TILLA;TILLA;^3000;
 //// END VOR36 ////
 
 // KGPM Arrivals

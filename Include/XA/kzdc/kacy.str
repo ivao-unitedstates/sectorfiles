@@ -1,5 +1,5 @@
 // KACY STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KACY Approaches
 
@@ -16,8 +16,8 @@ TUBER;TUBER;<br>;
 TUBER;TUBER;^2000;
 //// END VDM22 ////
 
-//// ILS13 ////
-KACY;13;ILS13;KACY;KACY;3;
+//// ILSZ13 ////
+KACY;13;ILSZ13;KACY;KACY;3;
 CARYL;CARYL;<br>;
 CARYL;CARYL;^2000;
 MAYBN;MAYBN;@1600;
@@ -25,14 +25,13 @@ ACY;ACY;<br>;
 CARYL;CARYL;^2000;
 CARYL;CARYL;
 VCN;VCN;<br>;
-VCN;VCN;^2000;
 VCN;VCN;
 CARYL;CARYL;
 
-KACY;13;GA ILS13;KACY;KACY;5;
+KACY;13;GA ILSZ13;KACY;KACY;5;
 SMITS;SMITS;<br>;
 SMITS;SMITS;^2000;
-//// END ILS13 ////
+//// END ILSZ13 ////
 
 //// ILS31 ////
 KACY;31;ILS31;KACY;KACY;3;

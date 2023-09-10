@@ -1,5 +1,5 @@
 // KACT STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KACT Approaches
 
@@ -88,10 +88,9 @@ KACT;19;RNV19;KACT;KACT;3;
 CHRUS;CHRUS;<br>;
 CHRUS;CHRUS;^3000;
 COFFI;COFFI;@2100;
-IGORR;IGORR;<br>;
-UZOKU;UZOKU;^3000;
-CHRUS;CHRUS;
 IMIPE;IMIPE;<br>;
+CHRUS;CHRUS;
+UZOKU;UZOKU;<br>;
 CHRUS;CHRUS;
 WESLI;WESLI;<br>;
 CHRUS;CHRUS;

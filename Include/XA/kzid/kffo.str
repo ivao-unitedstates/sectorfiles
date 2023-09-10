@@ -1,5 +1,5 @@
 // KFFO STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KFFO Approaches
 
@@ -31,7 +31,7 @@ LOOMP;LOOMP;
 KFFO;23R;GA ILS23R;KFFO;KFFO;5;
 AKATE;AKATE;<br>;
 AKATE;AKATE;^2000;
-CLACK;CLACK;@3000;
+CLACK;CLACK;^3000;
 //// END ILS23R ////
 
 //// RNV05L ////

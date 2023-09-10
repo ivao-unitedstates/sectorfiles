@@ -1,5 +1,5 @@
 // KMOP STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KMOP Approaches
 
@@ -41,16 +41,3 @@ COPTI;COPTI;<br>;
 INDAF;INDAF;
 ELMME;ELMME;^3000;
 //// END RNV27 ////
-
-//// VOR27 ////
-KMOP;27;VOR27;KMOP;KMOP;3;
-FF27;FF27;<br>;
-FF27;FF27;@2500;
-MOP;MOP;<br>;
-MOP;MOP;v6000 @210K @210K @210K;
-FF27;FF27;
-
-KMOP;27;GA VOR27;KMOP;KMOP;5;
-MOP;MOP;<br>;
-MOP;MOP;
-//// END VOR27 ////

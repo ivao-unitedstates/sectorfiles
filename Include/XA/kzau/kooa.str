@@ -1,22 +1,8 @@
 // KOOA STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KOOA Approaches
 
-
-//// VDM31 ////
-KOOA;31;VDM31;KOOA;KOOA;3;
-OTM;OTM;<br>;
-OTM;OTM;^2800;
-OAKER;OAKER;@2400;
-NASAL;NASAL;<br>;
-OTM;OTM;^2800;
-OTM;OTM;
-
-KOOA;31;GA VDM31;KOOA;KOOA;5;
-NASAL;NASAL;<br>;
-NASAL;NASAL;^2800;
-//// END VDM31 ////
 
 //// RNV13 ////
 KOOA;13;RNV13;KOOA;KOOA;3;

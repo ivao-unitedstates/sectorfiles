@@ -1,5 +1,5 @@
 // KEOD STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KEOD Approaches
 
@@ -11,6 +11,7 @@ OJLUW;OJLUW;^2500;
 VUSNY;VUSNY;@2200;
 QUWRE;QUWRE;^1440;
 GNSHP;GNSHP;<br>;
+GNSHP;GNSHP;^2500;
 OJLUW;OJLUW;^2500;
 OJLUW;OJLUW;
 
@@ -25,6 +26,7 @@ NIXAE;NIXAE;<br>;
 NIXAE;NIXAE;^2400;
 WARUX;WARUX;@2200;
 GNSHP;GNSHP;<br>;
+GNSHP;GNSHP;^2400;
 NIXAE;NIXAE;
 NIXAE;NIXAE;
 

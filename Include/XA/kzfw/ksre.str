@@ -1,22 +1,8 @@
 // KSRE STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KSRE Approaches
 
-
-//// NDB16 ////
-KSRE;16;NDB16;KSRE;KSRE;3;
-FF16;FF16;<br>;
-FF16;FF16;@2600;
-HOLLE;HOLLE;<br>;
-SRE;SRE;^2600 @210K @210K @210K;
-FF16;FF16;
-
-KSRE;16;GA NDB16;KSRE;KSRE;5;
-SRE;SRE;<br>;
-SRE;SRE;^1424;
-SRE;SRE;^2600;
-//// END NDB16 ////
 
 //// RNV16 ////
 KSRE;16;RNV16;KSRE;KSRE;3;

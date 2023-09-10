@@ -1,5 +1,5 @@
 // KCPK STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KCPK Approaches
 
@@ -10,12 +10,8 @@ NALDE;NALDE;<br>;
 NALDE;NALDE;^2000;
 TAVAE;TAVAE;@1700;
 CVI;CVI;<br>;
-CVI;CVI;^2000;
-CVI;CVI;
 NALDE;NALDE;
 ECG;ECG;<br>;
-ECG;ECG;^2000;
-ECG;ECG;
 NALDE;NALDE;
 NALDE;NALDE;
 

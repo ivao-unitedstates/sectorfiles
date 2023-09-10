@@ -1,5 +1,5 @@
 // KNGU STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KNGU Approaches
 
@@ -19,7 +19,7 @@ RUVNE;RUVNE;^2100;
 //// RNV10 ////
 KNGU;10;RNV10;KNGU;KNGU;3;
 NONNU;NONNU;<br>;
-NONNU;NONNU;^2300;
+NONNU;NONNU;@2300;
 HISAM;HISAM;@1500;
 HCM;HCM;<br>;
 HCM;HCM;^2300;
@@ -29,7 +29,7 @@ NONNU;NONNU;
 
 KNGU;10;GA RNV10;KNGU;KNGU;5;
 GLEEP;GLEEP;<br>;
-GLEEP;GLEEP;@3000;
+GLEEP;GLEEP;^3000;
 //// END RNV10 ////
 
 //// RNV28 ////

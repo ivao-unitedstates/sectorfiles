@@ -1,5 +1,5 @@
 // KPOE STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KPOE Approaches
 
@@ -30,6 +30,7 @@ COCOS;COCOS;<br>;
 CATVO;CATVO;^2000;
 CATVO;CATVO;
 DXB;DXB;<br>;
+DXB;DXB;^2000;
 CATVO;CATVO;
 
 KPOE;34;GA RNV34;KPOE;KPOE;5;

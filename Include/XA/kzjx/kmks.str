@@ -1,5 +1,5 @@
 // KMKS STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KMKS Approaches
 
@@ -59,8 +59,9 @@ YENUD;YENUD;^680;
 CUBBY;CUBBY;<br>;
 ZEDBI;ZEDBI;^2000;
 WEDEP;WEDEP;
-VAN;VAN;<br>;
+GRECI;GRECI;<br>;
 WEKAG;WEKAG;^2000;
+WEDEP;WEDEP;
 WEDEP;WEDEP;
 
 KMKS;23;GA RNV23;KMKS;KMKS;5;

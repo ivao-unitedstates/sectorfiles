@@ -1,5 +1,5 @@
 // KTIP STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KTIP Approaches
 
@@ -52,18 +52,3 @@ KTIP;36;GA RNV36;KTIP;KTIP;5;
 ALADE;ALADE;<br>;
 ALADE;ALADE;^3000;
 //// END RNV36 ////
-
-//// VOR27 ////
-KTIP;27;VOR27;KTIP;KTIP;3;
-TOONS;TOONS;<br>;
-TOONS;TOONS;^2500;
-CHANU;CHANU;@2500;
-JOPMU;JOPMU;^1340;
-TOONS;TOONS;
-DNV;DNV;<br>;
-TOONS;TOONS;
-
-KTIP;27;GA VOR27;KTIP;KTIP;5;
-CHANU;CHANU;<br>;
-CHANU;CHANU;^2500;
-//// END VOR27 ////

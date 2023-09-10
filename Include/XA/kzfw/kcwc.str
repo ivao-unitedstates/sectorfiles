@@ -1,23 +1,8 @@
 // KCWC STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KCWC Approaches
 
-
-//// NDB35 ////
-KCWC;35;NDB35;KCWC;KCWC;3;
-SKB;SKB;<br>;
-SKB;SKB;@2600;
-HUNKI;HUNKI;<br>;
-SKB;SKB;^3100 @210K @210K @210K 
-SPS;SPS;
-SKB;SKB;^3100 @210K @210K @210K;
-SKB;SKB;
-
-KCWC;35;GA NDB35;KCWC;KCWC;5;
-SKB;SKB;<br>;
-SKB;SKB;^3100;
-//// END NDB35 ////
 
 //// RNV35 ////
 KCWC;35;RNV35;KCWC;KCWC;3;

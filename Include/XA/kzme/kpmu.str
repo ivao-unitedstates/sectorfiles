@@ -1,25 +1,8 @@
 // KPMU STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KPMU Approaches
 
-
-//// LOC19 ////
-KPMU;19;LOC19;KPMU;KPMU;3;
-SUBOY;SUBOY;<br>;
-SUBOY;SUBOY;^2800;
-CIBDA;CIBDA;@1900;
-WABDI;WABDI;^1240;
-HLI;HLI;<br>;
-HLI;HLI;^2800;
-HLI;HLI;
-SUBOY;SUBOY;
-SUBOY;SUBOY;
-
-KPMU;19;GA LOC19;KPMU;KPMU;5;
-SUBOY;SUBOY;<br>;
-SUBOY;SUBOY;^2800;
-//// END LOC19 ////
 
 //// RNV01 ////
 KPMU;01;RNV01;KPMU;KPMU;3;

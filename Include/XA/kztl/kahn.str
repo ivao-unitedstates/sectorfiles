@@ -1,5 +1,5 @@
 // KAHN STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KAHN Approaches
 
@@ -98,14 +98,3 @@ KAHN;02;GA VOR02;KAHN;KAHN;5;
 AHN;AHN;<br>;
 AHN;AHN;^2300;
 //// END VOR02 ////
-
-//// VOR27 ////
-KAHN;27;VOR27;KAHN;KAHN;3;
-FF27;FF27;<br>;
-FF27;FF27;@2400 @210K @210K @210K;
-FF27;FF27;
-
-KAHN;27;GA VOR27;KAHN;KAHN;5;
-AHN;AHN;<br>;
-AHN;AHN;^2400;
-//// END VOR27 ////
