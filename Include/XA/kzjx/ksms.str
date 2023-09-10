@@ -1,5 +1,5 @@
 // KSMS STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KSMS Approaches
 
@@ -10,20 +10,12 @@ GAUGH;GAUGH;<br>;
 GAUGH;GAUGH;^2000;
 AGOZE;AGOZE;@1900;
 CTF;CTF;<br>;
-CTF;CTF;^2100;
-CTF;CTF;
 GAUGH;GAUGH;
-FLO;FLO;<br>;
-FLO;FLO;^2000;
-FLO;FLO;
-GAUGH;GAUGH;
-VAN;VAN;<br>;
-GAUGH;GAUGH;^2400;
 GAUGH;GAUGH;
 
 KSMS;23;GA ILS23;KSMS;KSMS;5;
-CIKVO;CIKVO;<br>;
-CIKVO;CIKVO;^2000;
+GAUGH;GAUGH;<br>;
+GAUGH;GAUGH;^2000;
 //// END ILS23 ////
 
 //// RNV05 ////

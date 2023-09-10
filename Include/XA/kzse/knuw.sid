@@ -1,25 +1,6 @@
 // KNUW SIDs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
-
-//// CVV5 ////
-KNUW;25;CVV5;KNUW;KNUW;
-CVV;CVV;<br>;
-CVV;CVV;^2000;
-CVV;CVV;<br>;
-DIGGN;DIGGN;^7000;
-CVV;CVV;<br>;
-PAE;PAE;^3000;
-
-KNUW;25;CVV5.DIGGN;KNUW;KNUW;1;
-CVV;CVV;<br>;
-CVV;CVV;^2000;
-DIGGN;DIGGN;^7000;
-KNUW;25;CVV5.PAE;KNUW;KNUW;1;
-CVV;CVV;<br>;
-CVV;CVV;^2000;
-PAE;PAE;^3000;
-//// END CVV5 ////
 
 //// NASWI2 ////
 KNUW;07:14:25:32;NASWI2;KNUW;KNUW;

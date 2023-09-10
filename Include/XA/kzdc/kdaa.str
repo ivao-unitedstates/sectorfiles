@@ -1,5 +1,5 @@
 // KDAA STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KDAA Approaches
 
@@ -54,10 +54,10 @@ UDUCY;UDUCY;^2000;
 //// RNV32 ////
 KDAA;32;RNV32;KDAA;KDAA;3;
 UDUCY;UDUCY;<br>;
-UDUCY;UDUCY;^2000;
+UDUCY;UDUCY;@2000;
 PATCI;PATCI;@1500;
 IRONS;IRONS;<br>;
-IRONS;IRONS;^2000;
+IRONS;IRONS;^4500;
 UDUCY;UDUCY;^2000;
 UDUCY;UDUCY;
 

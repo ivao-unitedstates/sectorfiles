@@ -1,5 +1,5 @@
 // KDVT SIDs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 
 //// BNYRD6 ////
@@ -15,8 +15,8 @@ TFD;TFD;
 TUS;TUS;
 //// END BNYRD6 ////
 
-//// DVT2 ////
-KDVT;07L:07R:25L:25R;DVT2;KDVT;KDVT;
+//// DVT3 ////
+KDVT;07L:07R:25L:25R;DVT3;KDVT;KDVT;
 PXR;PXR;<br>;
 PXR;PXR;
 PXR;PXR;<br>;
@@ -26,7 +26,7 @@ PXR;PXR;
 PXR;PXR;<br>;
 PXR;PXR;
 
-//// END DVT2 ////
+//// END DVT3 ////
 
 //// FTHLS6 ////
 KDVT;25R:25L;FTHLS6;KDVT;KDVT;

@@ -1,21 +1,8 @@
 // KCVC STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KCVC Approaches
 
-
-//// NDB28 ////
-KCVC;28;NDB28;KCVC;KCVC;3;
-VOF;VOF;<br>;
-VOF;VOF;@1900;
-CANUK;CANUK;<br>;
-VOF;VOF;^2500 @210K @210K @210K;
-VOF;VOF;
-
-KCVC;28;GA NDB28;KCVC;KCVC;5;
-VOF;VOF;<br>;
-VOF;VOF;^2500;
-//// END NDB28 ////
 
 //// RNV10 ////
 KCVC;10;RNV10;KCVC;KCVC;3;

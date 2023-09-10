@@ -1,27 +1,8 @@
 // KPVU STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KPVU Approaches
 
-
-//// VDM13 ////
-KPVU;13;VDM13;KPVU;KPVU;3;
-FAVUR;FAVUR;<br>;
-FAVUR;FAVUR;^8500;
-SUGIE;SUGIE;@6200;
-OFWIG;OFWIG;@4739;
-FFU;FFU;<br>;
-JETLI;JETLI;^9200;
-FAVUR;FAVUR;
-MASIE;MASIE;<br>;
-FAVUR;FAVUR;
-
-KPVU;13;GA VDM13;KPVU;KPVU;5;
-PVU;PVU;<br>;
-ZIPUT;ZIPUT;
-FFU;FFU;
-FFU;FFU;^9000;
-//// END VDM13 ////
 
 //// ILS13 ////
 KPVU;13;ILS13;KPVU;KPVU;3;

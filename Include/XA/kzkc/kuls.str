@@ -1,21 +1,8 @@
 // KULS STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KULS Approaches
 
-
-//// NDB12 ////
-KULS;12;NDB12;KULS;KULS;3;
-FF12;FF12;<br>;
-FF12;FF12;@5000;
-GCK;GCK;<br>;
-ULS;ULS;^5000 @210K @210K @210K;
-FF12;FF12;
-
-KULS;12;GA NDB12;KULS;KULS;5;
-ULS;ULS;<br>;
-ULS;ULS;
-//// END NDB12 ////
 
 //// RNV12 ////
 KULS;12;RNV12;KULS;KULS;3;

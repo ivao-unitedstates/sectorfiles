@@ -1,22 +1,19 @@
 // KDVL STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KDVL Approaches
 
 
 //// ILS31 ////
 KDVL;31;ILS31;KDVL;KDVL;3;
-USNUW;USNUW;<br>;
-USNUW;USNUW;^3200;
+GRETE;GRETE;<br>;
+GRETE;GRETE;^3400;
 WOVED;WOVED;@3200;
-DVL;DVL;<br>;
-WOVED;WOVED;^3200 @210K @210K @210K 
-NERDE;NERDE;
-WADIM;WADIM;
-USNUW;USNUW;
+GRETE;GRETE;
 
 KDVL;31;GA ILS31;KDVL;KDVL;5;
-DVL;DVL;<br>;
+KRAMR;KRAMR;<br>;
+KRAMR;KRAMR;^3400;
 //// END ILS31 ////
 
 //// RNV03 ////

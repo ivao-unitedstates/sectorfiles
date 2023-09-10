@@ -1,5 +1,5 @@
 // CYUL STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // CYUL Approaches
 
@@ -125,8 +125,8 @@ VEVSU;VEVSU;
 //// RNV24RX ////
 CYUL;24R;RNV24RX;CYUL;CYUL;3;
 LONNA;LONNA;<br>;
-LONNA;LONNA;^2500;
-OMEKI;OMEKI;^2500;
+LONNA;LONNA;^3000;
+OMEKI;OMEKI;^2520;
 VOLAX;VOLAX;@1500;
 
 CYUL;24R;GA RNV24RX;CYUL;CYUL;5;

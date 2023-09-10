@@ -1,5 +1,5 @@
 // CYLK STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // CYLK Approaches
 
@@ -7,7 +7,7 @@
 //// RNV08 ////
 CYLK;08;RNV08;CYLK;CYLK;3;
 XUBES;XUBES;<br>;
-XUBES;XUBES;^2500;
+XUBES;XUBES;^2400;
 VISOG;VISOG;@2000;
 IKPAG;IKPAG;<br>;
 IKPAG;IKPAG;@210K;
@@ -18,7 +18,7 @@ XUBES;XUBES;
 
 CYLK;08;GA RNV08;CYLK;CYLK;5;
 AVREB;AVREB;<br>;
-AVREB;AVREB;@2600;
+AVREB;AVREB;@2900;
 //// END RNV08 ////
 
 //// RNV26 ////
@@ -35,5 +35,5 @@ XOROS;XOROS;
 
 CYLK;26;GA RNV26;CYLK;CYLK;5;
 PETKI;PETKI;<br>;
-PETKI;PETKI;@2500;
+PETKI;PETKI;@2900;
 //// END RNV26 ////

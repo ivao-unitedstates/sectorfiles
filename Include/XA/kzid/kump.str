@@ -1,23 +1,8 @@
 // KUMP STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KUMP Approaches
 
-
-//// NDB15 ////
-KUMP;15;NDB15;KUMP;KUMP;3;
-FF15;FF15;<br>;
-FF15;FF15;@2900;
-ANMRI;ANMRI;^1600;
-UMP;UMP;@812;
-VHP;VHP;<br>;
-UMP;UMP;^2900 @210K @210K @210K;
-FF15;FF15;
-
-KUMP;15;GA NDB15;KUMP;KUMP;5;
-UMP;UMP;<br>;
-UMP;UMP;^2500;
-//// END NDB15 ////
 
 //// RNV15 ////
 KUMP;15;RNV15;KUMP;KUMP;3;

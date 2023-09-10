@@ -1,5 +1,5 @@
 // KTUL STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KTUL Approaches
 
@@ -160,6 +160,7 @@ KTUL;36L;RNV36L;KTUL;KTUL;3;
 SUSNE;SUSNE;<br>;
 SUSNE;SUSNE;^3600;
 PASIE;PASIE;@2400;
+TREEO;TREEO;^1260;
 SUSNE;SUSNE;
 WUSPA;WUSPA;<br>;
 SUSNE;SUSNE;

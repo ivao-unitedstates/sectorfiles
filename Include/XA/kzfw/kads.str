@@ -1,5 +1,5 @@
 // KADS STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // KADS Approaches
 
@@ -17,8 +17,8 @@ TRISS;TRISS;^3000;
 
 //// ILS34 ////
 KADS;34;ILS34;KADS;KADS;3;
-ADDIS;ADDIS;<br>;
-ADDIS;ADDIS;^2500;
+NRTHH;NRTHH;<br>;
+NRTHH;NRTHH;^2500;
 PORTR;PORTR;@2000;
 
 KADS;34;GA ILS34;KADS;KADS;5;

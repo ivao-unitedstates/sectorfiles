@@ -1,5 +1,5 @@
 // CYHM STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // CYHM Approaches
 
@@ -27,7 +27,7 @@ DELVA;DELVA;
 
 CYHM;30;GA LOC30;CYHM;CYHM;5;
 ZHA;ZHA;<br>;
-ZHA;ZHA;@2300;
+ZHA;ZHA;@2800;
 //// END LOC30 ////
 
 //// NDB12 ////
@@ -53,7 +53,7 @@ DELVA;DELVA;
 
 CYHM;30;GA NDB30;CYHM;CYHM;5;
 ZHA;ZHA;<br>;
-ZHA;ZHA;@2300;
+ZHA;ZHA;@2800;
 //// END NDB30 ////
 
 //// RNVZ06 ////
@@ -121,7 +121,7 @@ DELVA;DELVA;
 
 CYHM;30;GA RNVZ30;CYHM;CYHM;5;
 EBKEM;EBKEM;<br>;
-EBKEM;EBKEM;@2300;
+EBKEM;EBKEM;@2800;
 //// END RNVZ30 ////
 
 // CYHM Arrivals

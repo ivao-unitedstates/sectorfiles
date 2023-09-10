@@ -1,5 +1,5 @@
 // CYQT STARs
-// Auto-generated 7/13/2023 by Wes Sleeman (XA)
+// Auto-generated 9/9/2023 by Wes Sleeman (XA)
 
 // CYQT Approaches
 
@@ -148,26 +148,6 @@ CYQT;25;GA RNVZ25;CYQT;CYQT;5;
 FESET;FESET;<br>;
 FESET;FESET;@4000;
 //// END RNVZ25 ////
-
-//// TAC07 ////
-CYQT;07;TAC07;CYQT;CYQT;3;
-CT07;CT07;<br>;
-CT07;CT07;^3500;
-MIVAV;MIVAV;@2310;
-
-CYQT;07;GA TAC07;CYQT;CYQT;5;
-UAU;UAU;<br>;
-//// END TAC07 ////
-
-//// TAC25 ////
-CYQT;25;TAC25;CYQT;CYQT;3;
-CT25;CT25;<br>;
-CT25;CT25;^3500;
-NONKS;NONKS;@2300;
-
-CYQT;25;GA TAC25;CYQT;CYQT;5;
-UAU;UAU;<br>;
-//// END TAC25 ////
 
 // CYQT Arrivals
 
