@@ -74,6 +74,7 @@ F;airspace\class_d.artcc
 
 [GEO]
 F;GEO\coast.geo
+F;GEO\ksea_txc.geo
 F;GEO\moa.geo
 F;GEO\warning.geo
 F;GEO\restrict.geo
