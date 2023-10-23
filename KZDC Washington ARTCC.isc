@@ -57,6 +57,8 @@ F;airspace\trsa.artcc
 F;geo\bridges.geo
 F;geo\us-coast.geo
 F;geo\potomac-river.geo
+F;ad\kiad_centerlines.geo
+F;ad\kdca_centerlines.geo
 F;pier\korf_parking.geo
 F;pier\krdu_parking.geo
 F;pier\kric_parking.geo
