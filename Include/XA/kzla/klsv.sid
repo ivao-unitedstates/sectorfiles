@@ -1,5 +1,5 @@
 // KLSV SIDs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 
 //// DREAM7 ////
@@ -17,8 +17,8 @@ MINTT;MINTT;vF190 ^17000;
 
 //// END DREAM7 ////
 
-//// MMM7 ////
-KLSV;03L:03R:21L:21R;MMM7;KLSV;KLSV;
+//// MMM8 ////
+KLSV;03L:03R:21L:21R;MMM8;KLSV;KLSV;
 CUVAX;CUVAX;<br>;
 CUVAX;CUVAX;v11000;
 MMM;MMM;
@@ -32,4 +32,4 @@ FROZE;FROZE;<br>;
 FROZE;FROZE;v12000;
 MMM;MMM;^F190;
 
-//// END MMM7 ////
+//// END MMM8 ////

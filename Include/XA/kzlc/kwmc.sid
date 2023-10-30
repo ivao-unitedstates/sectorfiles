@@ -1,17 +1,16 @@
 // KWMC SIDs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 
-//// INA1 ////
-KWMC;02:14:20:32;INA1;KWMC;KWMC;
-INA;INA;<br>;
+//// FESKO1 ////
+KWMC;02:14:20:32;FESKO1;KWMC;KWMC;
+FESKO;FESKO;<br>;
+FESKO;FESKO;^11000;
+FESKO;FESKO;<br>;
 FESKO;FESKO;^11000;
 FESKO;FESKO;<br>;
 FESKO;FESKO;^11000;
 FESKO;FESKO;<br>;
 FESKO;FESKO;^11000;
-INA;INA;<br>;
-INA;INA;
-FESKO;FESKO;^11000;
 
-//// END INA1 ////
+//// END FESKO1 ////

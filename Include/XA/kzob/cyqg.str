@@ -1,31 +1,19 @@
 // CYQG STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // CYQG Approaches
 
 
 //// ILS25 ////
 CYQG;25;ILS25;CYQG;CYQG;3;
-CF25;CF25;<br>;
-CF25;CF25;^2200;
-QG;QG;@1880 @210K @210K @210K;
-CF25;CF25;
+VIGVA;VIGVA;<br>;
+VIGVA;VIGVA;^2200;
+ILERI;ILERI;@1890;
+CRL;CRL;<br>;
+ILERI;ILERI;^2500 @210K @210K @210K;
+VIGVA;VIGVA;
 
-CYQG;25;GA ILS25;CYQG;CYQG;5;
-QG;QG;<br>;
-QG;QG;@2800;
 //// END ILS25 ////
-
-//// NDB25 ////
-CYQG;25;NDB25;CYQG;CYQG;3;
-QG;QG;<br>;
-QG;QG;@1880 @210K @210K @210K;
-QG;QG;
-
-CYQG;25;GA NDB25;CYQG;CYQG;5;
-QG;QG;<br>;
-QG;QG;@2800;
-//// END NDB25 ////
 
 //// RNV07 ////
 CYQG;07;RNV07;CYQG;CYQG;3;

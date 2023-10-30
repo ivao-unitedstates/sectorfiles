@@ -1,5 +1,5 @@
 // PGRO STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // PGRO Approaches
 
@@ -8,6 +8,11 @@
 PGRO;09;NDB09;PGRO;PGRO;3;
 FN09;FN09;<br>;
 FN09;FN09;@2900;
+ERTTS;ERTTS;<br>;
+GRO;GRO;^3100 @210K @210K @210K 
+KAQTU;KAQTU;
+GRO;GRO;^3100 @210K @210K @210K;
+FN09;FN09;
 
 PGRO;09;GA NDB09;PGRO;PGRO;5;
 GRO;GRO;<br>;

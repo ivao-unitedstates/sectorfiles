@@ -1,5 +1,5 @@
 // KRYM STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // KRYM Approaches
 
@@ -41,8 +41,10 @@ CUPLO;CUPLO;^3000;
 MARXY;MARXY;@3000;
 EGOLE;EGOLE;^2120;
 AXN;AXN;<br>;
+AXN;AXN;^3000;
 CUPLO;CUPLO;
 STC;STC;<br>;
+STC;STC;^3000;
 CUPLO;CUPLO;^3000;
 CUPLO;CUPLO;
 

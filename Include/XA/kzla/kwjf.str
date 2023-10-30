@@ -1,5 +1,5 @@
 // KWJF STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // KWJF Approaches
 
@@ -30,7 +30,7 @@ CERUT;CERUT;
 
 KWJF;24;GA RNV24;KWJF;KWJF;5;
 PMD;PMD;<br>;
-PMD;PMD;^6000;
+PMD;PMD;^7200 @210K;
 //// END RNV24 ////
 
 //// VORB06 ////
