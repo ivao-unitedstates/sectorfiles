@@ -1,20 +1,8 @@
 // KRSN STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // KRSN Approaches
 
-
-//// NDB18 ////
-KRSN;18;NDB18;KRSN;KRSN;3;
-ROQ;ROQ;<br>;
-ROQ;ROQ;@2000;
-MLU;MLU;<br>;
-ROQ;ROQ;^2000 @210K @210K @210K;
-ROQ;ROQ;
-
-KRSN;18;GA NDB18;KRSN;KRSN;5;
-ROQ;ROQ;<br>;
-//// END NDB18 ////
 
 //// RNV18 ////
 KRSN;18;RNV18;KRSN;KRSN;3;

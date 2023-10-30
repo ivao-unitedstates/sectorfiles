@@ -1,5 +1,5 @@
 // KORH STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // KORH Approaches
 
@@ -31,7 +31,7 @@ SPENO;SPENO;
 
 KORH;11;GA ILS11;KORH;KORH;5;
 LAWRN;LAWRN;<br>;
-LAWRN;LAWRN;^3000;
+LAWRN;LAWRN;^3100;
 //// END ILS11 ////
 
 //// ILS29 ////

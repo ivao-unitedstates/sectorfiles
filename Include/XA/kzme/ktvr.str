@@ -1,17 +1,20 @@
 // KTVR STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // KTVR Approaches
 
 
 //// ILS36 ////
 KTVR;36;ILS36;KTVR;KTVR;3;
-CFBXL;CFBXL;<br>;
-CFBXL;CFBXL;^2100;
-TKH;TKH;@2062;
+CFFWB;CFFWB;<br>;
+CFFWB;CFFWB;^2100;
+TKH;TKH;@2061;
 BARNE;BARNE;<br>;
 TKH;TKH;^2100;
-CFBXL;CFBXL;
+CFFWB;CFFWB;
+HEDUD;HEDUD;<br>;
+TKH;TKH;^2100;
+CFFWB;CFFWB;
 
 KTVR;36;GA ILS36;KTVR;KTVR;5;
 TKH;TKH;<br>;

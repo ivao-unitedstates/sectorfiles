@@ -1,32 +1,8 @@
 // CYCH STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 // CYCH Approaches
 
-
-//// NDB09 ////
-CYCH;09;NDB09;CYCH;CYCH;3;
-FF09;FF09;<br>;
-FF09;FF09;@1700;
-EP09;EP09;@160;
-F9;F9;^510 @210K @210K @210K;
-FF09;FF09;
-
-CYCH;09;GA NDB09;CYCH;CYCH;5;
-F9;F9;<br>;
-F9;F9;@2500;
-//// END NDB09 ////
-
-//// NDB27 ////
-CYCH;27;NDB27;CYCH;CYCH;3;
-FF27;FF27;<br>;
-FF27;FF27;@1700 @210K @210K @210K;
-FF27;FF27;
-
-CYCH;27;GA NDB27;CYCH;CYCH;5;
-F9;F9;<br>;
-F9;F9;@2500;
-//// END NDB27 ////
 
 //// RNV09 ////
 CYCH;09;RNV09;CYCH;CYCH;3;

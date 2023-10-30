@@ -1,17 +1,17 @@
 // CYDB SIDs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 10/30/2023 by Wes Sleeman (XA)
 
 
-//// EPVAD2 ////
-CYDB;29;EPVAD2;CYDB;CYDB;
+//// EPVAD3 ////
+CYDB;29;EPVAD3;CYDB;CYDB;
 EPVAD;EPVAD;<br>;
-EPVAD;EPVAD;^8400;
+EPVAD;EPVAD;^8700;
 
-//// END EPVAD2 ////
+//// END EPVAD3 ////
 
-//// MEMIE2 ////
-CYDB;11;MEMIE2;CYDB;CYDB;
+//// MEMIE3 ////
+CYDB;11;MEMIE3;CYDB;CYDB;
 MEMIE;MEMIE;<br>;
 MEMIE;MEMIE;^9900;
 
-//// END MEMIE2 ////
+//// END MEMIE3 ////
