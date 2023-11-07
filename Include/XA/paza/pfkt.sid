@@ -1,11 +1,11 @@
 // PFKT SIDs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 
-//// KTS2 ////
-PFKT;12:23:30;KTS2;PFKT;PFKT;
-JIPAK;JIPAK;<br>;
-JIPAK;JIPAK;<br>;
-JIPAK;JIPAK;<br>;
+//// KTS3 ////
+PFKT;12:23:30;KTS3;PFKT;PFKT;
+MUJUD;MUJUD;<br>;
+MUJUD;MUJUD;<br>;
+MUJUD;MUJUD;<br>;
 
-//// END KTS2 ////
+//// END KTS3 ////

@@ -1,19 +1,19 @@
 // KDWX SIDs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 
-//// CRBN1 ////
-KDWX;06;CRBN1;KDWX;KDWX;
+//// CRBN2 ////
+KDWX;06;CRBN2;KDWX;KDWX;
 YEGUS;YEGUS;<br>;
 WIBSO;WIBSO;
-VOGIE;VOGIE;
+VANJO;VANJO;
 UCIGA;UCIGA;
 NEDAE;NEDAE;
 
-//// END CRBN1 ////
+//// END CRBN2 ////
 
-//// DIXON1 ////
-KDWX;24;DIXON1;KDWX;KDWX;
+//// DIXON2 ////
+KDWX;24;DIXON2;KDWX;KDWX;
 DYNES;DYNES;<br>;
 
-//// END DIXON1 ////
+//// END DIXON2 ////

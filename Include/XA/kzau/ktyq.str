@@ -1,5 +1,5 @@
 // KTYQ STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 // KTYQ Approaches
 
@@ -28,8 +28,8 @@ VHP;VHP;<br>;
 YABUD;YABUD;
 
 KTYQ;36;GA ILS36;KTYQ;KTYQ;5;
-PIPTE;PIPTE;<br>;
-PIPTE;PIPTE;^3000;
+VHP;VHP;<br>;
+VHP;VHP;^3000;
 //// END ILS36 ////
 
 //// RNV18 ////
@@ -59,7 +59,7 @@ PIPTE;PIPTE;@2700;
 CLANG;CLANG;<br>;
 TICOC;TICOC;^3000;
 YABUD;YABUD;
-VHP;VHP;<br>;
+CRAKE;CRAKE;<br>;
 YABUD;YABUD;
 YABUD;YABUD;
 

@@ -1,5 +1,5 @@
 // KHIF SIDs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 
 //// DEVLN1 ////
@@ -18,19 +18,6 @@ ORRFN;ORRFN;v9000 ^7000;
 //// END DEVLN1 ////
 
 
-
-//// ILONN1 ////
-KHIF;14:32;ILONN1;KHIF;KHIF;
-RAAMZ;RAAMZ;<br>;
-RAAMZ;RAAMZ;@350K;
-RAAMZ;RAAMZ;@6500;
-FUUJN;FUUJN;v9000 ^7000;
-RAAMZ;RAAMZ;<br>;
-RAAMZ;RAAMZ;@350K;
-RAAMZ;RAAMZ;@6500;
-FUUJN;FUUJN;v9000 ^7000;
-
-//// END ILONN1 ////
 
 //// LGTNG1 ////
 KHIF;14:32;LGTNG1;KHIF;KHIF;

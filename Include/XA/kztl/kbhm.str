@@ -1,5 +1,5 @@
 // KBHM STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 // KBHM Approaches
 
@@ -9,6 +9,9 @@ KBHM;06;ILS06;KBHM;KBHM;3;
 CEMPO;CEMPO;<br>;
 CEMPO;CEMPO;^2600;
 MCDEN;MCDEN;@2121;
+GUFLO;GUFLO;<br>;
+GUFLO;GUFLO;^3000;
+CEMPO;CEMPO;
 NEGEE;NEGEE;<br>;
 GUFLO;GUFLO;^3000;
 CEMPO;CEMPO;

@@ -1,8 +1,24 @@
 // PAGA STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 // PAGA Approaches
 
+
+//// VDM26 ////
+PAGA;26;VDM26;PAGA;PAGA;3;
+BRADL;BRADL;<br>;
+BRADL;BRADL;^2300;
+AGAFI;AGAFI;^1700;
+GAL;GAL;@1400;
+BRADL;BRADL;
+ZOMBY;ZOMBY;<br>;
+DIGAC;DIGAC;^2700;
+BRADL;BRADL;
+
+PAGA;26;GA VDM26;PAGA;PAGA;5;
+BRADL;BRADL;<br>;
+BRADL;BRADL;^2300;
+//// END VDM26 ////
 
 //// RNV08 ////
 PAGA;08;RNV08;PAGA;PAGA;3;

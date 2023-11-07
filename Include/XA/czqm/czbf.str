@@ -1,30 +1,8 @@
 // CZBF STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 // CZBF Approaches
 
-
-//// NDB10 ////
-CZBF;10;NDB10;CZBF;CZBF;3;
-FN10;FN10;<br>;
-FN10;FN10;@2500 @210K @210K @210K;
-FN10;FN10;
-
-CZBF;10;GA NDB10;CZBF;CZBF;5;
-1F;1F;<br>;
-1F;1F;@3200;
-//// END NDB10 ////
-
-//// NDB28 ////
-CZBF;28;NDB28;CZBF;CZBF;3;
-FN28;FN28;<br>;
-FN28;FN28;@1800 @210K @210K @210K;
-FN28;FN28;
-
-CZBF;28;GA NDB28;CZBF;CZBF;5;
-1F;1F;<br>;
-1F;1F;@3200;
-//// END NDB28 ////
 
 //// RNV10 ////
 CZBF;10;RNV10;CZBF;CZBF;3;

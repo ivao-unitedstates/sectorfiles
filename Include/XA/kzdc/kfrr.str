@@ -1,5 +1,5 @@
 // KFRR STARs
-// Auto-generated 9/9/2023 by Wes Sleeman (XA)
+// Auto-generated 11/3/2023 by Wes Sleeman (XA)
 
 // KFRR Approaches
 
@@ -37,34 +37,6 @@ KFRR;28;GA RNVA28;KFRR;KFRR;5;
 CAKOM;CAKOM;<br>;
 CAKOM;CAKOM;^3700;
 //// END RNVA28 ////
-
-//// VORB10 ////
-KFRR;10;VORB10;KFRR;KFRR;3;
-LDN;LDN;<br>;
-LDN;LDN;@5000;
-RARVE;RARVE;@3300;
-LDN;LDN;<br>;
-LDN;LDN;@210K @210K @210K;
-LDN;LDN;
-
-KFRR;10;GA VORB10;KFRR;KFRR;5;
-LDN;LDN;<br>;
-LDN;LDN;^5000;
-//// END VORB10 ////
-
-//// VORB28 ////
-KFRR;28;VORB28;KFRR;KFRR;3;
-LDN;LDN;<br>;
-LDN;LDN;@5000;
-RARVE;RARVE;@3300;
-LDN;LDN;<br>;
-LDN;LDN;@210K @210K @210K;
-LDN;LDN;
-
-KFRR;28;GA VORB28;KFRR;KFRR;5;
-LDN;LDN;<br>;
-LDN;LDN;^5000;
-//// END VORB28 ////
 
 // KFRR Arrivals
 
