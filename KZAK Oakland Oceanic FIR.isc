@@ -1,9 +1,9 @@
 [INFO]
 N020.58.53.073
 W155.15.45.095
-60
-58.7
-4
+15
+15
+0.1
 XA\KZAK
 [ATIS]
 F;default.atis
@@ -24,7 +24,7 @@ F;airac\awhigh.awh
 [LOW AIRWAY]
 F;airac\awlow.awl
 [ARTCC]
-\\F;airspace\kzak.artcc
+F;airspace\neighbors.artcc
 F;airspace\kzak_cw_ctr.artcc
 F;airspace\kzak_e_ctr.artcc
 F;airspace\kzak_n_ctr.artcc
