@@ -5,6 +5,15 @@ W080.17.24.420
 54
 -5
 XA/KZMA
+
+[COLORSCHEME]
+F;ERAM.clr
+
+[PROFILE]
+F;KMIA.CPR
+F;KZMA.CPR
+
+
 [ATIS]
 F;default.atis
 [DEFINE]
