@@ -5,6 +5,13 @@ W125.17.56.901
 37
 17
 XA\CZVR
+
+[COLORSCHEME]
+F;Normal.clr
+
+[PROFILE]
+F;CZVR.CPR
+
 [ATIS]
 F;default.atis
 [ATC]

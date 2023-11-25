@@ -5,6 +5,13 @@ W064.40.45.000
 42
 -18
 XA\CZQM
+
+[COLORSCHEME]
+F;Normal.clr
+
+[PROFILE]
+F;CZQM.CPR
+
 [ATIS]
 F;default.atis
 [ATC]

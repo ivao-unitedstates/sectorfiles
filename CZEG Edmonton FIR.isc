@@ -5,6 +5,13 @@ W113.52.01.000
 36
 14
 XA\CZEG
+
+[COLORSCHEME]
+F;Normal.clr
+
+[PROFILE]
+F;CZEG.CPR
+
 [ATIS]
 F;default.atis
 [ATC]
