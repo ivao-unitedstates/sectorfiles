@@ -1,5 +1,5 @@
 // KFEP STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KFEP Approaches
 
@@ -23,10 +23,8 @@ KFEP;06;RNV06;KFEP;KFEP;3;
 HANKS;HANKS;<br>;
 HANKS;HANKS;^2600;
 BABJY;BABJY;@2600;
-MIHAL;MIHAL;<br>;
 HANKS;HANKS;
-PLL;PLL;<br>;
-HANKS;HANKS;^2600;
+MIHAL;MIHAL;<br>;
 HANKS;HANKS;
 WACKS;WACKS;<br>;
 HANKS;HANKS;

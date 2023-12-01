@@ -1,5 +1,5 @@
 // PGUA STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // PGUA Approaches
 
@@ -190,6 +190,9 @@ HURUG;HURUG;<br>;
 HURUG;HURUG;^2600;
 FOMOD;FOMOD;@2200;
 ITUME;ITUME;@783;
+ARKEE;ARKEE;<br>;
+ARKEE;ARKEE;^2600;
+HURUG;HURUG;
 FOVEM;FOVEM;<br>;
 FOVEM;FOVEM;^3000;
 ARKEE;ARKEE;

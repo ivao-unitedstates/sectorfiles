@@ -1,5 +1,5 @@
 // CYQY STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // CYQY Approaches
 
@@ -14,9 +14,6 @@ LESUP;LESUP;^3000 @210K;
 MITOX;MITOX;
 VIPKO;VIPKO;<br>;
 VIPKO;VIPKO;^3000 @210K;
-MITOX;MITOX;
-YQY;YQY;<br>;
-MOBUX;MOBUX;^2000 @210K @210K @210K;
 MITOX;MITOX;
 
 //// END ILS06 ////

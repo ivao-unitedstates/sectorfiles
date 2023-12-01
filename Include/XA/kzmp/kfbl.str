@@ -1,5 +1,5 @@
 // KFBL STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KFBL Approaches
 
@@ -13,9 +13,10 @@ CHARG;CHARG;^1700;
 ALMAY;ALMAY;<br>;
 FABAU;FABAU;^3000;
 FABAU;FABAU;
-MKT;MKT;<br>;
+MEMCO;MEMCO;<br>;
 FABAU;FABAU;
 PRAGS;PRAGS;<br>;
+PRAGS;PRAGS;@200K;
 FABAU;FABAU;
 
 KFBL;12;GA RNV12;KFBL;KFBL;5;

@@ -1,5 +1,5 @@
 // KDPG STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KDPG Approaches
 
@@ -30,6 +30,7 @@ POISN;POISN;<br>;
 CUCAP;CUCAP;@6500;
 ZUSAD;ZUSAD;@4588;
 BVL;BVL;<br>;
+BVL;BVL;^8800;
 POISN;POISN;
 DTA;DTA;<br>;
 KUDME;KUDME;^9600;

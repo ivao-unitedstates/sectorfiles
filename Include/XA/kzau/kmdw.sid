@@ -1,9 +1,9 @@
 // KMDW SIDs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 
-//// CICER2 ////
-KMDW;04L:04R:13C:13L:22L:22R:31C:31R;CICER2;KMDW;KMDW;
+//// CICER3 ////
+KMDW;04L:04R:13C:13L:22L:22R:31C:31R;CICER3;KMDW;KMDW;
 IMXT;IMXT;<br>;
 IMXT;IMXT;<br>;
 IMXT;IMXT;<br>;
@@ -13,5 +13,5 @@ IMXT;IMXT;<br>;
 IMXT;IMXT;<br>;
 IMXT;IMXT;<br>;
 
-//// END CICER2 ////
+//// END CICER3 ////
 

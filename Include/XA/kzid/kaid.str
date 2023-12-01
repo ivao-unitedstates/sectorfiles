@@ -1,5 +1,5 @@
 // KAID STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KAID Approaches
 
@@ -8,14 +8,12 @@
 KAID;30;ILS30;KAID;KAID;3;
 CFVSB;CFVSB;<br>;
 CFVSB;CFVSB;^2900;
-ZAKAV;ZAKAV;@2700;
-MIE;MIE;<br>;
-ZAKAV;ZAKAV;^2900 @210K @210K @210K;
+VIDEO;VIDEO;@2520 @210K @210K @210K;
 CFVSB;CFVSB;
 
 KAID;30;GA ILS30;KAID;KAID;5;
-MIE;MIE;<br>;
-MIE;MIE;^2900;
+VIDEO;VIDEO;<br>;
+VIDEO;VIDEO;^2900;
 //// END ILS30 ////
 
 //// RNV12 ////

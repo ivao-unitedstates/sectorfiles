@@ -1,5 +1,5 @@
 // KSVN STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KSVN Approaches
 
@@ -35,25 +35,6 @@ KSVN;28;GA ILS28;KSVN;KSVN;5;
 ESPEY;ESPEY;<br>;
 ESPEY;ESPEY;^2300;
 //// END ILS28 ////
-
-//// NDB28 ////
-KSVN;28;NDB28;KSVN;KSVN;3;
-SV;SV;<br>;
-SV;SV;@2500;
-NOMAS;NOMAS;<br>;
-SV;SV;^2500 @210K @210K @210K 
-SAV;SAV;
-SV;SV;^2500 @210K @210K @210K 
-SVN;SVN;
-SV;SV;^2500 @210K @210K @210K 
-WOHPY;WOHPY;
-SV;SV;^2500 @210K @210K @210K;
-SV;SV;
-
-KSVN;28;GA NDB28;KSVN;KSVN;5;
-SV;SV;<br>;
-SV;SV;^2500;
-//// END NDB28 ////
 
 //// RNV10 ////
 KSVN;10;RNV10;KSVN;KSVN;3;

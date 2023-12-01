@@ -1,5 +1,5 @@
 // KPSF STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KPSF Approaches
 
@@ -16,7 +16,7 @@ CF26;CF26;
 
 KPSF;26;GA LOC26;KPSF;KPSF;5;
 HIDAL;HIDAL;<br>;
-HIDAL;HIDAL;^5000;
+HIDAL;HIDAL;^4000;
 //// END LOC26 ////
 
 //// RNV08 ////
@@ -50,5 +50,5 @@ AZBAF;AZBAF;
 
 KPSF;26;GA RNV26;KPSF;KPSF;5;
 HIDAL;HIDAL;<br>;
-HIDAL;HIDAL;^5000;
+HIDAL;HIDAL;^4000;
 //// END RNV26 ////
