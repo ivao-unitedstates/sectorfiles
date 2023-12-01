@@ -1,5 +1,5 @@
 // CYQU STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // CYQU Approaches
 
@@ -20,17 +20,6 @@ UDNER;UDNER;^3600 @210K @210K @210K;
 IKBIR;IKBIR;
 
 //// END ILS30 ////
-
-//// NDB30 ////
-CYQU;30;NDB30;CYQU;CYQU;3;
-QU;QU;<br>;
-QU;QU;@3220 @210K @210K @210K;
-QU;QU;
-
-CYQU;30;GA NDB30;CYQU;CYQU;5;
-QU;QU;<br>;
-QU;QU;@6000;
-//// END NDB30 ////
 
 //// RNVY07 ////
 CYQU;07;RNVY07;CYQU;CYQU;3;

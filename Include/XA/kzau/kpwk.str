@@ -1,5 +1,5 @@
 // KPWK STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KPWK Approaches
 
@@ -32,6 +32,20 @@ KPWK;16;GA RNV16;KPWK;KPWK;5;
 DEERE;DEERE;<br>;
 DEERE;DEERE;^2100;
 //// END RNV16 ////
+
+//// RNV30 ////
+KPWK;30;RNV30;KPWK;KPWK;3;
+GENAZ;GENAZ;<br>;
+GENAZ;GENAZ;^2500;
+DUSTY;DUSTY;@2200;
+THORR;THORR;<br>;
+THORR;THORR;^2500;
+GENAZ;GENAZ;
+
+KPWK;30;GA RNV30;KPWK;KPWK;5;
+HIGUH;HIGUH;<br>;
+HIGUH;HIGUH;^2500;
+//// END RNV30 ////
 
 //// VOR16 ////
 KPWK;16;VOR16;KPWK;KPWK;3;

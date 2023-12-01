@@ -1,5 +1,5 @@
 // PATL STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // PATL Approaches
 
@@ -37,6 +37,7 @@ GLIBB;GLIBB;
 
 PATL;35;GA RNV35;PATL;PATL;5;
 LERIC;LERIC;<br>;
+LERIC;LERIC;@165K;
 NETCO;NETCO;
 BRYCI;BRYCI;^5000;
 //// END RNV35 ////

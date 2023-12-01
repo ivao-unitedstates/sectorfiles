@@ -1,5 +1,5 @@
 // KJZI SIDs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 
 //// EXTVE1 ////
@@ -118,8 +118,8 @@ LGRHD;LGRHD;<br>;
 GIPPL;GIPPL;
 //// END KIAWA2 ////
 
-//// KMBEE1 ////
-KJZI;04:09:22:27;KMBEE1;KJZI;KJZI;
+//// KMBEE2 ////
+KJZI;04:09:22:27;KMBEE2;KJZI;KJZI;
 KMBEE;KMBEE;<br>;
 KMBEE;KMBEE;^2000;
 KMBEE;KMBEE;<br>;
@@ -129,4 +129,4 @@ KMBEE;KMBEE;^2000;
 KMBEE;KMBEE;<br>;
 KMBEE;KMBEE;^2000;
 
-//// END KMBEE1 ////
+//// END KMBEE2 ////

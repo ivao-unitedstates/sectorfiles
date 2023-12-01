@@ -1,5 +1,5 @@
 // CYTF STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // CYTF Approaches
 
@@ -12,9 +12,7 @@ GADAS;GADAS;@1480;
 RJ;RJ;<br>;
 RJ;RJ;
 XERUT;XERUT;
-VBS;VBS;<br>;
-GADAS;GADAS;^5100 @210K @210K @210K 
-YBG;YBG;
+YBG;YBG;<br>;
 GADAS;GADAS;^2800 @210K @210K @210K;
 XERUT;XERUT;
 

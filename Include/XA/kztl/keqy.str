@@ -1,5 +1,5 @@
 // KEQY STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KEQY Approaches
 
@@ -21,11 +21,10 @@ FATED;FATED;<br>;
 FATED;FATED;^2500;
 JAMUN;JAMUN;@2500;
 WUVUL;WUVUL;^1220;
+BUTKE;BUTKE;<br>;
+FATED;FATED;
 CTF;CTF;<br>;
 MOSEE;MOSEE;^2500;
-FATED;FATED;
-LOCKS;LOCKS;<br>;
-BUTKE;BUTKE;^2500;
 FATED;FATED;
 
 KEQY;05;GA RNV05;KEQY;KEQY;5;

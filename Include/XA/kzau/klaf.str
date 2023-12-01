@@ -1,5 +1,5 @@
 // KLAF STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KLAF Approaches
 
@@ -68,6 +68,7 @@ UPUKE;UPUKE;
 
 KLAF;05;GA VORA05;KLAF;KLAF;5;
 BVT;BVT;<br>;
+BVT;BVT;^2400;
 //// END VORA05 ////
 
 //// VORA10 ////
@@ -80,6 +81,7 @@ UPUKE;UPUKE;
 
 KLAF;10;GA VORA10;KLAF;KLAF;5;
 BVT;BVT;<br>;
+BVT;BVT;^2400;
 //// END VORA10 ////
 
 //// VORA23 ////
@@ -92,6 +94,7 @@ UPUKE;UPUKE;
 
 KLAF;23;GA VORA23;KLAF;KLAF;5;
 BVT;BVT;<br>;
+BVT;BVT;^2400;
 //// END VORA23 ////
 
 //// VORA28 ////
@@ -104,4 +107,5 @@ UPUKE;UPUKE;
 
 KLAF;28;GA VORA28;KLAF;KLAF;5;
 BVT;BVT;<br>;
+BVT;BVT;^2400;
 //// END VORA28 ////

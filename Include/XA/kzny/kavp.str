@@ -1,5 +1,5 @@
 // KAVP STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KAVP Approaches
 
@@ -21,15 +21,13 @@ LVZ;LVZ;^4000;
 //// ILS22 ////
 KAVP;22;ILS22;KAVP;KAVP;3;
 JULUT;JULUT;<br>;
-JULUT;JULUT;^3200;
+JULUT;JULUT;^3100;
 WEXIN;WEXIN;@2800;
-LVZ;LVZ;<br>;
-COSBY;COSBY;^4000;
 JULUT;JULUT;
 
 KAVP;22;GA ILS22;KAVP;KAVP;5;
-LOPEZ;LOPEZ;<br>;
-LOPEZ;LOPEZ;^4000;
+MEGSS;MEGSS;<br>;
+MEGSS;MEGSS;^4000;
 //// END ILS22 ////
 
 //// RNV04 ////

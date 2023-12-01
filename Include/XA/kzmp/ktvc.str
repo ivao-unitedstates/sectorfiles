@@ -1,8 +1,26 @@
 // KTVC STARs
-// Auto-generated 11/3/2023 by Wes Sleeman (XA)
+// Auto-generated 11/30/2023 by Wes Sleeman (XA)
 
 // KTVC Approaches
 
+
+//// ILS10 ////
+KTVC;10;ILS10;KTVC;KTVC;3;
+BEAAR;BEAAR;<br>;
+BEAAR;BEAAR;^3000;
+CEKUK;CEKUK;@2600;
+BABBE;BABBE;<br>;
+FEPEX;FEPEX;^3600;
+BEAAR;BEAAR;
+BEAAR;BEAAR;
+IROTO;IROTO;<br>;
+CUBKO;CUBKO;^3000;
+BEAAR;BEAAR;
+
+KTVC;10;GA ILS10;KTVC;KTVC;5;
+TVC;TVC;<br>;
+TVC;TVC;^4000;
+//// END ILS10 ////
 
 //// ILS28 ////
 KTVC;28;ILS28;KTVC;KTVC;3;
