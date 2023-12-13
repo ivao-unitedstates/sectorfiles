@@ -6,11 +6,11 @@ W056.55.55.000
 -19.4
 XA\CDQX
 
-[COLORSCHEME]
-F;Normal.clr
+///[COLORSCHEME]
+///F;Normal.clr
 
-[PROFILE]
-F;CDQX.CPR
+///[PROFILE]
+///F;CDQX.CPR
 
 [ATIS]
 F;default.atis
