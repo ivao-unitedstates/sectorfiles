@@ -9,8 +9,8 @@ XA\CZUL
 [COLORSCHEME]
 F;Normal.clr
 
-[PROFILE]
-F;CZUL.CPR
+//[PROFILE]
+//F;CZUL.CPR
 
 [ATIS]
 F;default.atis
