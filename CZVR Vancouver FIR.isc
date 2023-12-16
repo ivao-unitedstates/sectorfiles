@@ -9,8 +9,8 @@ XA\CZVR
 [COLORSCHEME]
 F;Normal.clr
 
-[PROFILE]
-F;CZVR.CPR
+//[PROFILE]
+//F;CZVR.CPR
 
 [ATIS]
 F;default.atis
