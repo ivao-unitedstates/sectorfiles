@@ -9,8 +9,8 @@ XA\CZWG
 [COLORSCHEME]
 F;Normal.clr
 
-[PROFILE]
-F;CZWG.CPR
+//[PROFILE]
+//F;CZWG.CPR
 
 [ATIS]
 F;default.atis
