@@ -9,8 +9,8 @@ XA\CZEG
 [COLORSCHEME]
 F;Normal.clr
 
-[PROFILE]
-F;CZEG.CPR
+//[PROFILE]
+//F;CZEG.CPR
 
 [ATIS]
 F;default.atis
