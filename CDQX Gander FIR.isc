@@ -62,7 +62,6 @@ F;airspace\cz.artcc
 [GEO]
 F;coastline.geo
 F;radar_coverage.geo
-//txi centerlines
 F;cyyt_txicenterlines.geo
 F;ad\cyqm.geo
 F;ad\cyfc.geo
