@@ -57,9 +57,9 @@ F;airac\ndb.ndb
 [VOR]
 F;airac\vor.vor
 [HIGH AIRWAY]
-F;airac\awh.awh
+F;airac\awhigh.awh
 [LOW AIRWAY]
-F;airac\awl.awl
+F;airac\awlow.awl
 [ARTCC]
 F;airspace\kzla.artcc
 [ARTCC HIGH]
@@ -83,30 +83,31 @@ F;app\restrict.geo
 F;app\warning.geo
 F;taxiway_centerlines.geo
 //F;app\burbank_laxw.geo
-//F;app\los_angeles_laxw.geo
+F;app\los_angeles_laxw.geo
 //F;app\empire_laxw.geo
 //F;app\san_diego_west.geo
 //F;app\coast_laxw_snas.geo
 //F;app\del_rey_laxw.geo
-//F;app\las_26l.geo
+F;app\las_26l.geo
 //F;app\kbfl_app.geo
 //F;app\ksba_app.geo
 //F;app\edw_app.geo
-//F;app\lsv_app.geo
-//F;app\lsv_ctl.geo
+F;app\lsv_app.geo
+F;app\lsv_ctl.geo
 //F;app\ntd_app.geo
 //F;app\yum_app.geo
 //F;app\pmd_app.geo
 
 //F;app\burbank_laxe.geo
-//F;app\los_angeles_laxe.geo
+F;app\los_angeles_laxe.geo
 //F;app\empire_laxe.geo
 //F;app\coast_laxe_snas.geo
 //F;app\coast_laxw_snan.geo
 //F;app\coast_laxe_snan.geo
-//F;app\san_diego_east.geo
+F;app\san_diego_west.geo
+F;app\san_diego_east.geo
 //F;app\del_rey_laxw_snan.geo
 //F;app\del_rey_laxe.geo
-//F;app\las_1l.geo
-//F;app\las_1l-26l.geo
-//F;app\las_8R.geo
+F;app\las_1l.geo
+F;app\las_1l-26l.geo
+F;app\las_8R.geo
