@@ -1,5 +1,5 @@
 // KNGP STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KNGP Approaches
 
@@ -43,6 +43,7 @@ CISAN;CISAN;<br>;
 CISAN;CISAN;^1600;
 TYLLR;TYLLR;
 CRP;CRP;<br>;
+CRP;CRP;^2000;
 TYLLR;TYLLR;
 
 KNGP;13R;GA ILS13RY;KNGP;KNGP;5;
@@ -105,6 +106,7 @@ CISAN;CISAN;<br>;
 CISAN;CISAN;^1600;
 TYLLR;TYLLR;
 CRP;CRP;<br>;
+CRP;CRP;^2000;
 TYLLR;TYLLR;
 
 KNGP;13R;GA RNV13R;KNGP;KNGP;5;

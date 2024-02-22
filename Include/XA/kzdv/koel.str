@@ -1,24 +1,8 @@
 // KOEL STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KOEL Approaches
 
-
-//// NDB34 ////
-KOEL;34;NDB34;KOEL;KOEL;3;
-FF34;FF34;<br>;
-FF34;FF34;@4700;
-GLD;GLD;<br>;
-OEL;OEL;^5500 @210K @210K @210K 
-HLC;HLC;
-OEL;OEL;^4700 @210K @210K @210K;
-FF34;FF34;
-
-KOEL;34;GA NDB34;KOEL;KOEL;5;
-OEL;OEL;<br>;
-OEL;OEL;^3445;
-OEL;OEL;^4700;
-//// END NDB34 ////
 
 //// RNV34 ////
 KOEL;34;RNV34;KOEL;KOEL;3;

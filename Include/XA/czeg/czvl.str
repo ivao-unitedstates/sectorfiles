@@ -1,5 +1,5 @@
 // CZVL STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // CZVL Approaches
 
@@ -7,7 +7,7 @@
 //// ILS26 ////
 CZVL;26;ILS26;CZVL;CZVL;3;
 DEBGA;DEBGA;<br>;
-DEBGA;DEBGA;^4400;
+DEBGA;DEBGA;^5000 @190K;
 ALSEV;ALSEV;@3900;
 LEPIL;LEPIL;<br>;
 LEPIL;LEPIL;@210K;
@@ -17,8 +17,8 @@ UKSOT;UKSOT;@210K;
 DEBGA;DEBGA;
 
 CZVL;26;GA ILS26;CZVL;CZVL;5;
-VEPTI;VEPTI;<br>;
-VEPTI;VEPTI;@5500;
+UKULA;UKULA;<br>;
+VEPTI;VEPTI;@5500 @230K;
 //// END ILS26 ////
 
 //// RNV08 ////

@@ -1,5 +1,5 @@
 // KMKL STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KMKL Approaches
 
@@ -55,9 +55,7 @@ ZIFFO;ZIFFO;^3000;
 //// VOR02 ////
 KMKL;02;VOR02;KMKL;KMKL;3;
 FF02;FF02;<br>;
-FF02;FF02;@2200;
-MIOLA;MIOLA;<br>;
-MKL;MKL;^2200 @210K @210K @210K;
+FF02;FF02;@2200 @210K @210K @210K;
 FF02;FF02;
 
 KMKL;02;GA VOR02;KMKL;KMKL;5;

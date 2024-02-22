@@ -1,5 +1,5 @@
 // KDPG STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KDPG Approaches
 
@@ -27,6 +27,7 @@ ETUBY;ETUBY;^8500;
 //// TAC12 ////
 KDPG;12;TAC12;KDPG;KDPG;3;
 POISN;POISN;<br>;
+POISN;POISN;^8800;
 CUCAP;CUCAP;@6500;
 ZUSAD;ZUSAD;@4588;
 BVL;BVL;<br>;

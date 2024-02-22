@@ -1,5 +1,5 @@
 // PGUM STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // PGUM Approaches
 
@@ -61,8 +61,7 @@ MEMKE;MEMKE;
 
 PGUM;06R;GA ILS06R;PGUM;PGUM;5;
 UNZ;UNZ;<br>;
-UNZ;UNZ;^3000;
-MEMKE;MEMKE;
+MEMKE;MEMKE;^3000;
 //// END ILS06R ////
 
 //// NDM24R ////

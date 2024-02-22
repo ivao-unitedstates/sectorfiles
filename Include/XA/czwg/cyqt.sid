@@ -1,20 +1,20 @@
 // CYQT SIDs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 
 
 
-//// LESIS1 ////
-CYQT;25:30;LESIS1;CYQT;CYQT;
+//// LESIS2 ////
+CYQT;25:30;LESIS2;CYQT;CYQT;
 BOTIT;BOTIT;<br>;
 LESIS;LESIS;<br>;
 LESIS;LESIS;<br>;
 
-//// END LESIS1 ////
+//// END LESIS2 ////
 
-//// NUBOM1 ////
-CYQT;07;NUBOM1;CYQT;CYQT;
+//// NUBOM2 ////
+CYQT;07;NUBOM2;CYQT;CYQT;
 NUBOM;NUBOM;<br>;
 ALNAN;ALNAN;
 
-//// END NUBOM1 ////
+//// END NUBOM2 ////

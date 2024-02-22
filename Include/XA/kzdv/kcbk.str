@@ -1,21 +1,8 @@
 // KCBK STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KCBK Approaches
 
-
-//// NDB17 ////
-KCBK;17;NDB17;KCBK;KCBK;3;
-JDM;JDM;<br>;
-JDM;JDM;@4700;
-HLC;HLC;<br>;
-JDM;JDM;^4800 @210K @210K @210K;
-JDM;JDM;
-
-KCBK;17;GA NDB17;KCBK;KCBK;5;
-JDM;JDM;<br>;
-JDM;JDM;^4800;
-//// END NDB17 ////
 
 //// RNV17 ////
 KCBK;17;RNV17;KCBK;KCBK;3;

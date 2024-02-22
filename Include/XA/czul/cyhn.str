@@ -1,5 +1,5 @@
 // CYHN STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // CYHN Approaches
 
@@ -19,7 +19,7 @@ PIGPU;PIGPU;
 
 CYHN;07;GA RNV07;CYHN;CYHN;5;
 OMTOD;OMTOD;<br>;
-OMTOD;OMTOD;@2800;
+OMTOD;OMTOD;@2900;
 //// END RNV07 ////
 
 //// RNV25 ////
@@ -36,5 +36,5 @@ PIRIP;PIRIP;
 
 CYHN;25;GA RNV25;CYHN;CYHN;5;
 DUVOM;DUVOM;<br>;
-DUVOM;DUVOM;@2800;
+DUVOM;DUVOM;@2900;
 //// END RNV25 ////
