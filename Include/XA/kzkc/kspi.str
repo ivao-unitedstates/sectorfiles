@@ -1,5 +1,5 @@
 // KSPI STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KSPI Approaches
 
@@ -54,7 +54,7 @@ PUWGO;PUWGO;^3100;
 RIMTE;RIMTE;^2600;
 SATPY;SATPY;@2300;
 UDCOF;UDCOF;^1420;
-PUBHY;PUBHY;@637;
+PUBHY;PUBHY;@638;
 LATHA;LATHA;<br>;
 CFBVH;CFBVH;^3100;
 PUWGO;PUWGO;

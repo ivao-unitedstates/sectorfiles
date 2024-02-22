@@ -1,22 +1,8 @@
 // KLUK STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KLUK Approaches
 
-
-//// LBC03R ////
-KLUK;03R;LBC03R;KLUK;KLUK;3;
-SHILA;SHILA;<br>;
-SHILA;SHILA;^2500;
-DEFTS;DEFTS;@2100;
-LVERT;LVERT;@756;
-FLM;FLM;<br>;
-SHILA;SHILA;
-
-KLUK;03R;GA LBC03R;KLUK;KLUK;5;
-WUSPU;WUSPU;<br>;
-WUSPU;WUSPU;^3000;
-//// END LBC03R ////
 
 //// ILS21L ////
 KLUK;21L;ILS21L;KLUK;KLUK;3;

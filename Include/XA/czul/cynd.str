@@ -1,23 +1,8 @@
 // CYND STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // CYND Approaches
 
-
-//// VDM09 ////
-CYND;09;VDM09;CYND;CYND;3;
-ALSIP;ALSIP;<br>;
-ALSIP;ALSIP;^3000;
-ETKER;ETKER;^2610;
-BIPRA;BIPRA;@1330;
-YOW;YOW;<br>;
-BIPRA;BIPRA;^3000 @210K @210K @210K;
-ALSIP;ALSIP;
-
-CYND;09;GA VDM09;CYND;CYND;5;
-YOW;YOW;<br>;
-YOW;YOW;@3000;
-//// END VDM09 ////
 
 //// RNV09 ////
 CYND;09;RNV09;CYND;CYND;3;

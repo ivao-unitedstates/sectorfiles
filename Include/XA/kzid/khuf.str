@@ -1,5 +1,5 @@
 // KHUF STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KHUF Approaches
 
@@ -102,15 +102,3 @@ KHUF;32;GA RNV32;KHUF;KHUF;5;
 JOSTO;JOSTO;<br>;
 JOSTO;JOSTO;^2600;
 //// END RNV32 ////
-
-//// VOR23 ////
-KHUF;23;VOR23;KHUF;KHUF;3;
-TTH;TTH;<br>;
-TTH;TTH;@1600;
-TTH;TTH;<br>;
-TTH;TTH;v6000 @210K @210K @210K;
-TTH;TTH;
-
-KHUF;23;GA VOR23;KHUF;KHUF;5;
-TTH;TTH;<br>;
-//// END VOR23 ////

@@ -1,5 +1,5 @@
 // KMVE STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KMVE Approaches
 
@@ -41,18 +41,3 @@ KMVE;32;GA RNV32;KMVE;KMVE;5;
 ZARTU;ZARTU;<br>;
 ZARTU;ZARTU;^3400;
 //// END RNV32 ////
-
-//// VOR14 ////
-KMVE;14;VOR14;KMVE;KMVE;3;
-FF14;FF14;<br>;
-FF14;FF14;@2600;
-EBZAN;EBZAN;^1840;
-MVE;MVE;@1044;
-FITAS;FITAS;<br>;
-MVE;MVE;^3000 @210K @210K @210K;
-FF14;FF14;
-
-KMVE;14;GA VOR14;KMVE;KMVE;5;
-MVE;MVE;<br>;
-MVE;MVE;^3400;
-//// END VOR14 ////

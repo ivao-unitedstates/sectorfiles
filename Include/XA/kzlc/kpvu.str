@@ -1,5 +1,5 @@
 // KPVU STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KPVU Approaches
 
@@ -19,6 +19,7 @@ ZEGUR;ZEGUR;
 
 KPVU;13;GA ILS13;KPVU;KPVU;5;
 CALUB;CALUB;<br>;
+CALUB;CALUB;
 FFU;FFU;^9000;
 //// END ILS13 ////
 

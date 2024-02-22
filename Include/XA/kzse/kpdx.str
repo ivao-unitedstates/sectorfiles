@@ -1,5 +1,5 @@
 // KPDX STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KPDX Approaches
 
@@ -337,8 +337,8 @@ KPDX;28L;TAC28L;KPDX;KPDX;3;
 ROVTE;ROVTE;<br>;
 ROVTE;ROVTE;^3000;
 ARLEH;ARLEH;@2100;
-HAXOB;HAXOB;^760;
-ZAPLO;ZAPLO;@78;
+HAXOB;HAXOB;^800;
+ZAPLO;ZAPLO;@83;
 
 KPDX;28L;GA TAC28L;KPDX;KPDX;5;
 BEAST;BEAST;<br>;

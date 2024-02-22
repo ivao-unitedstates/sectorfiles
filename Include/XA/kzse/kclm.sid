@@ -1,11 +1,9 @@
 // KCLM SIDs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 
-//// WATTR7 ////
-KCLM;08:13:26:31;WATTR7;KCLM;KCLM;
-WATTR;WATTR;<br>;
-WATTR;WATTR;@5400;
+//// WATTR8 ////
+KCLM;09:27:31;WATTR8;KCLM;KCLM;
 WATTR;WATTR;<br>;
 WATTR;WATTR;@5400;
 WATTR;WATTR;<br>;
@@ -13,4 +11,4 @@ WATTR;WATTR;@5400;
 WATTR;WATTR;<br>;
 WATTR;WATTR;@5400;
 
-//// END WATTR7 ////
+//// END WATTR8 ////

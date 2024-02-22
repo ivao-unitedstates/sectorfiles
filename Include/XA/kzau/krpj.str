@@ -1,5 +1,5 @@
 // KRPJ STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KRPJ Approaches
 
@@ -12,8 +12,6 @@ ANOSE;ANOSE;@2500;
 EDALE;EDALE;^1380;
 BATBE;BATBE;
 LEECS;LEECS;<br>;
-BATBE;BATBE;
-PLL;PLL;<br>;
 BATBE;BATBE;
 
 KRPJ;07;GA RNV07;KRPJ;KRPJ;5;

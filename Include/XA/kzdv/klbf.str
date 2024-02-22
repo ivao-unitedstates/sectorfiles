@@ -1,5 +1,5 @@
 // KLBF STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KLBF Approaches
 
@@ -8,7 +8,7 @@
 KLBF;30;ILS30;KLBF;KLBF;3;
 OMESE;OMESE;<br>;
 OMESE;OMESE;^4700;
-PANBE;PANBE;@4522;
+PANBE;PANBE;@4600;
 CINIV;CINIV;<br>;
 CINIV;CINIV;
 ECYUS;ECYUS;
@@ -18,6 +18,7 @@ OMESE;OMESE;
 
 KLBF;30;GA ILS30;KLBF;KLBF;5;
 LBF;LBF;<br>;
+LBF;LBF;^4900;
 //// END ILS30 ////
 
 //// RNV12 ////

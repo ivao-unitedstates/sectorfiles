@@ -1,5 +1,5 @@
 // KSQI STARs
-// Auto-generated 11/30/2023 by Wes Sleeman (XA)
+// Auto-generated 2/22/2024 by Wes Sleeman (XA)
 
 // KSQI Approaches
 
@@ -10,16 +10,13 @@ GIBON;GIBON;<br>;
 GIBON;GIBON;^2700;
 JIGRO;JIGRO;@2400;
 IROCI;IROCI;^1300;
-HUNAX;HUNAX;@904;
+HUNAX;HUNAX;@907;
 CVA;CVA;<br>;
-GIBON;GIBON;
-PLL;PLL;<br>;
-JIGRO;JIGRO;^2500 @210K @210K @210K;
 GIBON;GIBON;
 
 KSQI;07;GA LBC07;KSQI;KSQI;5;
-PLL;PLL;<br>;
-PLL;PLL;^2700;
+REVCO;REVCO;<br>;
+REVCO;REVCO;^2700;
 //// END LBC07 ////
 
 //// ILS25 ////
