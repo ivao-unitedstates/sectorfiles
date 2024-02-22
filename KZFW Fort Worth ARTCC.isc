@@ -12,7 +12,7 @@ APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
 RUNWAY;#000000;
-FORTWORTH;#363636;
+//FORTWORTH;#363636;
 
 [ATIS]
 F;default.atis
@@ -58,4 +58,4 @@ F;geo\prohibit.geo
 F;geo\restrict.geo
 F;geo\warning.geo
 F;geo\Baseline.geo
-F;geo\Approaches.geo
+//F;geo\Approaches.geo

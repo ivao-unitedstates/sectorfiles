@@ -9,8 +9,8 @@ XA\CZUL
 [COLORSCHEME]
 F;Normal.clr
 
-[PROFILE]
-F;CZUL.CPR
+//[PROFILE]
+//F;CZUL.CPR
 
 [ATIS]
 F;default.atis
@@ -18,35 +18,35 @@ F;default.atis
 F;atc.atc
 
 [AIRPORT]
-F;airac\czul.ap
+F;airac\airports.ap
 
 [RUNWAY]
-F;airac\czul.rw
+F;airac\runways.rw
 
 [FIXES]
-F;airac\czul.fix
+F;airac\fixes.fix
 
 [NDB]
-F;airac\czul.ndb
+F;airac\ndb.ndb
 
 [VOR]
-F;airac\czul.vor
+F;airac\vor.vor
 
 [HIGH AIRWAY]
-F;airac\czul.awh
+F;airac\awh.awh
 
 [LOW AIRWAY]
-F;airac\czul.awl
+F;airac\awl.awl
 
 [ARTCC]
 F;airspace\czul.artcc
+
+[ARTCC HIGH]
 F;airspace\cyqb app.artcc
 F;airspace\cyul app.artcc
 F;airspace\cyow app.artcc
 F;airspace\cytr app.artcc
 F;airspace\cybg app.artcc
-
-[ARTCC HIGH]
 
 [ARTCC LOW]
 F;airspace\terminal_control_areas.artcc
@@ -58,17 +58,4 @@ F;airspace\czul_low.artcc
 F;geo\coast.geo
 F;cyul_txicenterlines.geo
 F;cyul_stoplines.geo
-
-[FILLCOLOR]
-F;airspace\czul_border.fcl
-F;ad\cybg.fcl
-F;ad\cyhu.fcl
-F;ad\cyjn.fcl
-F;ad\cymx.fcl
-F;ad\cyow.fcl
-F;ad\cyqb.fcl
-F;ad\cyrc.fcl
-F;ad\cytr.fcl
-F;ad\cywk.fcl
-F;ad\cyzv.fcl
 

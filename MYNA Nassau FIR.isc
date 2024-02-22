@@ -23,6 +23,7 @@ F;airac\airports.ap
 F;airac\runways.rw
 [FIXES]
 F;airac\fixes.fix
+F;airac\fixes2.fix
 [NDB]
 F;airac\ndb.ndb
 [VOR]

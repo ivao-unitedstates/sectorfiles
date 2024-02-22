@@ -9,11 +9,6 @@ XA/KZMA
 [COLORSCHEME]
 F;ERAM.clr
 
-[PROFILE]
-F;KMIA.CPR
-F;KZMA.CPR
-
-
 [ATIS]
 F;default.atis
 [DEFINE]
@@ -45,6 +40,7 @@ F;airac\runways.rw
 
 [FIXES]
 F;airac\fixes.fix
+F;airac\fixes2.fix
 
 [NDB]
 F;airac\ndb.ndb
@@ -79,7 +75,7 @@ F;app\dab.artcc
 F;airspace\Class B.artcc
 F;airspace\Class C.artcc
 F;airspace\Class D.artcc
-F;airspace\Mode C Veil.artcc
+//F;airspace\Mode C Veil.artcc
 
 [GEO]
 F;geo\coast.geo
