@@ -60,21 +60,7 @@ F;airac\awlow.awl
 F;airspace\kztl.artcc
 
 [ARTCC HIGH]
-F;airspace\a80 app.artcc
-F;airspace\kags app.artcc
-F;airspace\kahn app.artcc
-F;airspace\katl app.artcc
-F;airspace\kavl app.artcc
-F;airspace\kbhm app.artcc
-F;airspace\kcha app.artcc
-F;airspace\kclt app.artcc
-F;airspace\kcsg app.artcc
-F;airspace\kgso app.artcc
-F;airspace\kgsp app.artcc
-F;airspace\kmcn app.artcc
-F;airspace\kmgm app.artcc
-F;airspace\ktri app.artcc
-F;airspace\ktys app.artcc
+F;airspace\app.artcc
 
 [ARTCC LOW]
 F;airspace\kztl_low.artcc
