@@ -1,5 +1,5 @@
 // MBNC STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // MBNC Approaches
 
@@ -8,7 +8,6 @@
 MBNC;08;VORM08;MBNC;MBNC;3;
 PVN;PVN;<br>;
 PVN;PVN;^1300;
-N021.54.58.842;W071.56.42.665;
 
 MBNC;08;GA VORM08;MBNC;MBNC;5;
 PVN;PVN;<br>;
@@ -18,7 +17,6 @@ PVN;PVN;<br>;
 MBNC;26;VORM26;MBNC;MBNC;3;
 PVN;PVN;<br>;
 PVN;PVN;^1300;
-N021.54.58.842;W071.56.42.665;
 
 MBNC;26;GA VORM26;MBNC;MBNC;5;
 PVN;PVN;<br>;

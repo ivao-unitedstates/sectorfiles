@@ -1,22 +1,8 @@
 // KGEY STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KGEY Approaches
 
-
-//// NDB34 ////
-KGEY;34;NDB34;KGEY;KGEY;3;
-FF34;FF34;<br>;
-FF34;FF34;@6300;
-EP34;EP34;@3966;
-GEY;GEY;^4350;
-COD;COD;<br>;
-GEY;GEY;^9500 @210K @210K @210K 
-RLY;RLY;
-GEY;GEY;^7000 @210K @210K @210K;
-FF34;FF34;
-
-//// END NDB34 ////
 
 //// RNV08 ////
 KGEY;08;RNV08;KGEY;KGEY;3;

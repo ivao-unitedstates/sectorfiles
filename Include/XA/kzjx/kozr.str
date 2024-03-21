@@ -1,5 +1,5 @@
 // KOZR STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KOZR Approaches
 
@@ -26,28 +26,6 @@ KOZR;06;GA ILS06;KOZR;KOZR;5;
 REHOB;REHOB;<br>;
 REHOB;REHOB;^2000;
 //// END ILS06 ////
-
-//// NDB06 ////
-KOZR;06;NDB06;KOZR;KOZR;3;
-OZ;OZ;<br>;
-OZ;OZ;@2000;
-HOUND;HOUND;<br>;
-HOUND;HOUND;^2000;
-OZ;OZ;^2000;
-OZ;OZ;
-OPPTO;OPPTO;<br>;
-OPPTO;OPPTO;^2000;
-OZ;OZ;^2000;
-OZ;OZ;
-RRS;RRS;<br>;
-RRS;RRS;^2000;
-OZ;OZ;^2000;
-OZ;OZ;
-
-KOZR;06;GA NDB06;KOZR;KOZR;5;
-REHOB;REHOB;<br>;
-REHOB;REHOB;^2000;
-//// END NDB06 ////
 
 //// RNV06 ////
 KOZR;06;RNV06;KOZR;KOZR;3;
