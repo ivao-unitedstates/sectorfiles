@@ -1,5 +1,5 @@
 // KDEN STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KDEN Approaches
 
@@ -444,6 +444,8 @@ BINBE;BINBE;^10000;
 KDEN;16R;RNV16RY;KDEN;KDEN;3;
 HAROS;HAROS;<br>;
 HAROS;HAROS;^10000 @210K;
+BRDOR;BRDOR;^9000;
+FESKA;FESKA;^8000;
 APASE;APASE;@7000;
 UJNOR;UJNOR;@5377;
 KAILE;KAILE;<br>;

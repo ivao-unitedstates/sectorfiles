@@ -1,18 +1,18 @@
 // KORL SIDs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 
-//// NYTES1 ////
-KORL;07;NYTES1;KORL;KORL;
+//// NYTES2 ////
+KORL;07;NYTES2;KORL;KORL;
 NYTES;NYTES;<br>;
 NYTES;NYTES;v1500;
 
-//// END NYTES1 ////
+//// END NYTES2 ////
 
-//// TOLLZ1 ////
-KORL;25;TOLLZ1;KORL;KORL;
+//// TOLLZ2 ////
+KORL;25;TOLLZ2;KORL;KORL;
 BELZR;BELZR;<br>;
 BELZR;BELZR;v1500;
 TOLLZ;TOLLZ;@2000;
 
-//// END TOLLZ1 ////
+//// END TOLLZ2 ////

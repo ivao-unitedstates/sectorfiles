@@ -1,5 +1,5 @@
 // KBVX STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KBVX Approaches
 
@@ -23,8 +23,7 @@ FIKIX;FIKIX;^3000;
 NICIN;NICIN;@2400;
 CUCAL;CUCAL;^1580;
 FIKIX;FIKIX;
-LIT;LIT;<br>;
-HEPLU;HEPLU;^3000;
+HEPLU;HEPLU;<br>;
 FIKIX;FIKIX;
 VILLO;VILLO;<br>;
 CISOG;CISOG;^3000;

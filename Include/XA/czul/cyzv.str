@@ -1,5 +1,5 @@
 // CYZV STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // CYZV Approaches
 
@@ -7,7 +7,7 @@
 //// ILS09 ////
 CYZV;09;ILS09;CYZV;CYZV;3;
 ETBAR;ETBAR;<br>;
-ETBAR;ETBAR;^2400;
+ETBAR;ETBAR;^3200;
 ONBEL;ONBEL;@1660;
 ETBAR;ETBAR;
 IGSUK;IGSUK;<br>;

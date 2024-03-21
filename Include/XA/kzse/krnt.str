@@ -1,5 +1,5 @@
 // KRNT STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KRNT Approaches
 
@@ -9,7 +9,7 @@ KRNT;16;RNVY16;KRNT;KRNT;3;
 LUTSY;LUTSY;<br>;
 LUTSY;LUTSY;^2100;
 BLEIR;BLEIR;@1600;
-ZULAV;ZULAV;^920;
+AMILL;AMILL;^920;
 TOYOL;TOYOL;@186;
 LUTSY;LUTSY;
 PAE;PAE;<br>;
@@ -18,8 +18,8 @@ WUNVA;WUNVA;<br>;
 LUTSY;LUTSY;
 
 KRNT;16;GA RNVY16;KRNT;KRNT;5;
-ZEBKU;ZEBKU;<br>;
-ZEBKU;ZEBKU;^2400;
+BLAKO;BLAKO;<br>;
+BLAKO;BLAKO;^2500;
 //// END RNVY16 ////
 
 //// RNVZ16 ////

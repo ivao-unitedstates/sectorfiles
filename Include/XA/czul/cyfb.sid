@@ -1,15 +1,17 @@
 // CYFB SIDs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 
-//// ALREX2 ////
-CYFB;34;ALREX2;CYFB;CYFB;
+//// ALREX3 ////
+CYFB;34;ALREX3;CYFB;CYFB;
 ALREX;ALREX;<br>;
+AVONU;AVONU;
 
-//// END ALREX2 ////
+//// END ALREX3 ////
 
-//// ITRUS1 ////
-CYFB;16;ITRUS1;CYFB;CYFB;
+//// ITRUS2 ////
+CYFB;16;ITRUS2;CYFB;CYFB;
 ITRUS;ITRUS;<br>;
+NOROK;NOROK;
 
-//// END ITRUS1 ////
+//// END ITRUS2 ////

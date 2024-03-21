@@ -1,5 +1,5 @@
 // KADU STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KADU Approaches
 
@@ -7,9 +7,9 @@
 //// RNV32 ////
 KADU;32;RNV32;KADU;KADU;3;
 TUYMO;TUYMO;<br>;
-TUYMO;TUYMO;^3000;
+TUYMO;TUYMO;^3100;
 OMHIH;OMHIH;@3000;
-NINNY;NINNY;^1800;
+NINNY;NINNY;^1900;
 BOPKE;BOPKE;<br>;
 TUYMO;TUYMO;
 CALUR;CALUR;<br>;
@@ -18,5 +18,5 @@ TUYMO;TUYMO;
 
 KADU;32;GA RNV32;KADU;KADU;5;
 TUYMO;TUYMO;<br>;
-TUYMO;TUYMO;^3000;
+TUYMO;TUYMO;^3100;
 //// END RNV32 ////

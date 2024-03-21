@@ -1,5 +1,5 @@
 // KSME STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KSME Approaches
 
@@ -11,7 +11,6 @@ SITOW;SITOW;^3700;
 HIPOD;HIPOD;@3000;
 LOZ;LOZ;<br>;
 CDX;CDX;v6000 ^3700 @210K @210K @210K 
-LVT;LVT;^3700;
 LVT;LVT;
 SITOW;SITOW;
 

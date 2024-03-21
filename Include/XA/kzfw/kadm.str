@@ -1,17 +1,17 @@
 // KADM STARs
-// Auto-generated 2/22/2024 by Wes Sleeman (XA)
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
 
 // KADM Approaches
 
 
 //// ILS31 ////
 KADM;31;ILS31;KADM;KADM;3;
-IYWIY;IYWIY;<br>;
-IYWIY;IYWIY;^3000;
+CFLBH;CFLBH;<br>;
+CFLBH;CFLBH;^3000;
 ADDMO;ADDMO;@2520;
 ADM;ADM;<br>;
 ADDMO;ADDMO;v6000 ^3000 @210K @210K @210K;
-IYWIY;IYWIY;
+CFLBH;CFLBH;
 
 KADM;31;GA ILS31;KADM;KADM;5;
 ADM;ADM;<br>;
