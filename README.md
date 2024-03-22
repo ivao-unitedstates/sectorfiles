@@ -1,8 +1,8 @@
 # XA Sectorfiles Repository  
 
 ## Overview
-<img src="https://i.imgur.com/ICY6mKJ.png" alt=""/>
-(https://octo-repo-visualization.vercel.app/?repo=ivao-xa%2Fsectorfiles)
+<img src="https://i.imgur.com/9VALPEQ.png" alt=""/>
+(https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=ivao-xa%2Fsectorfiles)
 
 ## FAQ
 
