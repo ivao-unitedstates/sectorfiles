@@ -1,0 +1,12 @@
+// KSVC SIDs
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
+
+
+//// SVC2 ////
+KSVC;08:26;SVC2;KSVC;KSVC;
+FAAST;FAAST;<br>;
+FAAST;FAAST;^9000;
+FAAST;FAAST;<br>;
+FAAST;FAAST;^9000;
+
+//// END SVC2 ////

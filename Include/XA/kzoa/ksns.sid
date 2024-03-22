@@ -1,0 +1,24 @@
+// KSNS SIDs
+// Auto-generated 21/03/2024 by Wes Sleeman (XA)
+
+
+//// CHLN3 ////
+KSNS;08:13:26:31;CHLN3;KSNS;KSNS;
+SARDO;SARDO;<br>;
+SARDO;SARDO;
+SARDO;SARDO;<br>;
+SARDO;SARDO;<br>;
+SARDO;SARDO;
+SARDO;SARDO;<br>;
+SARDO;SARDO;
+
+//// END CHLN3 ////
+
+//// SNS3 ////
+KSNS;08:13:26:31;SNS3;KSNS;KSNS;
+SNS;SNS;<br>;
+SNS;SNS;@210K;
+SNS;SNS;<br>;
+SNS;SNS;@210K;
+
+//// END SNS3 ////
