@@ -16,23 +16,7 @@ APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
 RUNWAY;#000000;
-CAE;#363636;
-CHS;#363636;
-DAB;#363636;
-FLO;#363636;
-JAX;#363636;
-MCO;#363636;
-MYR;#363636;
-NBC;#363636;
-OZR;#363636;
-PAM;#363636;
-PNS;#363636;
-SAV;#363636;
-SSC;#363636;
-TLH;#363636;
-TPA;#363636;
-VLD;#363636;
-VPS;#363636;
+TRACON;#363636;
 
 [ATC]
 F;atc.atc
@@ -80,6 +64,7 @@ F;geo\prohibit.geo
 
 //APP
 F;app\cae.geo
+F;app\clt.geo
 F;app\chs.geo
 F;app\dab.geo
 F;app\flo.geo
@@ -89,7 +74,6 @@ F;app\myr.geo
 F;app\nbc.geo
 F;app\ozr.geo
 F;app\pam.geo
-F;app\pns.geo
 F;app\sav.geo
 F;app\ssc.geo
 F;app\tlh.geo
@@ -97,5 +81,6 @@ F;app\tpa.geo
 f:app\vld.geo
 f:app\vps.geo
 f:app\tpa.geo
+F;app\other.geo
 
 [FILLCOLOR]
