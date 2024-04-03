@@ -10,6 +10,9 @@ XA\KZJX
 [ATIS]
 F;default.atis
 
+[CPDLC]
+F;phraseology.cpdlc
+
 [DEFINE]
 TAXIWAY;#2f2f2f;
 APRON;#494949;
