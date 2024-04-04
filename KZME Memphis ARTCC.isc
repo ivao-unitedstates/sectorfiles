@@ -7,6 +7,13 @@ W089.58.56.000
 XA\KZME
 [ATIS]
 F;default.atis
+
+[CPDLCNAMES]
+13;PDC;
+
+[CPDLC]
+F;phraseology.cpdlc
+
 [DEFINE]
 TAXIWAY;#2f2f2f;
 APRON;#494949;
