@@ -9,6 +9,9 @@ XA/KZMA
 [COLORSCHEME]
 F;ERAM.clr
 
+[CPDLC]
+F;phraseology.cpdlc
+
 [ATIS]
 F;default.atis
 [DEFINE]
