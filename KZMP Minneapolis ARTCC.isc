@@ -7,6 +7,10 @@ W093.00.00.000
 XA\KZMP
 [ATIS]
 F;default.atis
+
+[CPDLC]
+F;cpdlc.cpdlc
+
 [DEFINE]
 TAXIWAY;#2f2f2f;
 APRON;#494949;

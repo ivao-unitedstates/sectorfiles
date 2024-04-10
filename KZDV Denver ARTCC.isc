@@ -27,6 +27,9 @@ RUNWAY;#000000;
 [ATIS]
 F;default.atis
 
+[CPDLC]
+F;cpdlc.cpdlc
+
 [ATC]
 F;atc.atc
 

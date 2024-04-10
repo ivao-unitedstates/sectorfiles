@@ -9,6 +9,9 @@ XA\kzlc
 [ATIS]
 F;default.atis
 
+[CPDLC]
+F;cpdlc.cpdlc
+
 [DEFINE]
 TAXIWAY;#2f2f2f;
 APRON;#494949;

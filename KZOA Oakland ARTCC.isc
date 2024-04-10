@@ -7,6 +7,10 @@ W122.05.58.000
 XA\kzoa
 [ATIS]
 F;default.atis
+
+[CPDLC]
+F;cpdlc.cpdlc
+
 [DEFINE]
 TAXIWAY;#2f2f2f;
 APRON;#494949;
