@@ -20,6 +20,7 @@ APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
 RUNWAY;#000000;
+TRACON;#363636;
 //MIAMI TRACON (EAST OPS);#363636;
 //MIAMI TRACON (WEST OPS);#363636;
 //TAMPA TRACON (NORTH OPS);#363636;
@@ -88,6 +89,8 @@ F;ad\kmia_centerlines.geo
 F;geo\restrict.geo
 F;geo\warning.geo
 F;geo\moa.geo
+F;app\mco.geo
+
 //F;app\ftmyers_tracon_east.geo
 //F;app\ftmyers_tracon_west.geo
 //F;app\homestead_approach.geo
