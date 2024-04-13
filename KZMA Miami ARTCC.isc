@@ -84,6 +84,7 @@ F;airspace\Class D.artcc
 [GEO]
 F;geo\coast.geo
 F;ad\kmco.geo
+F;ad\ktpa.geo
 F;ad\kopf_centerlines.geo
 F;ad\kmia_centerlines.geo
 F;geo\restrict.geo

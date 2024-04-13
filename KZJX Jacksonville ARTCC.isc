@@ -59,6 +59,7 @@ F;airspace\class d.artcc
 
 [GEO]
 F;ad\kmco.geo
+F;ad\ktpa.geo
 F;geo\coastlines.geo
 F;geo\restrict.geo
 F;geo\warning.geo
