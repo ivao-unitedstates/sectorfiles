@@ -85,7 +85,6 @@ F;geo\coast.geo
 F;app\moa.geo
 F;app\restrict.geo
 F;app\warning.geo
-F;taxiway_centerlines.geo
 //F;app\burbank_laxw.geo
 F;app\los_angeles_laxw.geo
 //F;app\empire_laxw.geo
