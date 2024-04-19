@@ -1,6 +1,17 @@
 // KEND SIDs
-// Auto-generated 21/03/2024 by Wes Sleeman (XA)
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
 
+
+//// APNEA1 ////
+KEND;17R:35L;APNEA1;KEND;KEND;
+MOKNE;MOKNE;<br>;
+ALBIO;ALBIO;
+APNEA;APNEA;
+KIMSH;KIMSH;<br>;
+ALBIO;ALBIO;
+APNEA;APNEA;
+
+//// END APNEA1 ////
 
 //// BOZCO1 ////
 KEND;17C:17R:35C:35L;BOZCO1;KEND;KEND;

@@ -1,5 +1,5 @@
 // CYZX STARs
-// Auto-generated 21/03/2024 by Wes Sleeman (XA)
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
 
 // CYZX Approaches
 
@@ -51,10 +51,9 @@ DEDSI;DEDSI;@2600;
 
 //// NDB26 ////
 CYZX;26;NDB26;CYZX;CYZX;3;
-GORID;GORID;<br>;
-GORID;GORID;^2300;
+GF;GF;<br>;
 GF;GF;@1560 @210K @210K @210K;
-GORID;GORID;
+GF;GF;
 
 //// END NDB26 ////
 
