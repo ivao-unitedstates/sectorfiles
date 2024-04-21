@@ -16,9 +16,11 @@ TAXIWAY;#2f2f2f;
 APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
+VFR_ROUTES;#646464;
+TWR;#646464;
 RUNWAY;#000000;
-//A80 EAST;#363636;
-//A80 WEST;#363636;
+A80 EAST;#363636;
+A80 WEST;#363636;
 //CLT NORTH;#363636;
 //CLT SOUTH;#363636;
 //AVL TRACON 17;#363636;
@@ -69,15 +71,17 @@ F;airspace\app.artcc
 [ARTCC LOW]
 F;airspace\kztl_low.artcc
 F;airspace\class b.artcc
+
 F;airspace\class c.artcc
 F;airspace\class d.artcc
 
 [GEO]
+F;airspace\class b routes.geo
 F;geo\restrict.geo
 F;geo\moa.geo
 
-//F;app\a80 east.geo
-//F;app\a80 west.geo
+F;app\a80 east.geo
+F;app\a80 west.geo
 //F;app\clt north.geo
 //F;app\clt south.geo
 //F;app\avl tracon 17.geo
@@ -101,3 +105,4 @@ F;ad\kclt.geo
 F;ad\kcha.geo
 F;ad\ktys.geo
 F;ad\ktri.geo
+F;geo\katl_twr.geo
