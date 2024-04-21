@@ -1,0 +1,17 @@
+// KVBG SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+//// GVO3 ////
+KVBG;12;GVO3;KVBG;KVBG;
+GVO;GVO;<br>;
+GVO;GVO;^6000;
+
+//// END GVO3 ////
+
+//// VBG3 ////
+KVBG;30;VBG3;KVBG;KVBG;
+MQO;MQO;<br>;
+MQO;MQO;^4000;
+
+//// END VBG3 ////

@@ -1,0 +1,17 @@
+// KRVF SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+//// DLN2 ////
+KRVF;17;DLN2;KRVF;KRVF;
+DLN;DLN;<br>;
+DLN;DLN;^12000;
+
+//// END DLN2 ////
+
+//// RVF2 ////
+KRVF;35;RVF2;KRVF;KRVF;
+HIA;HIA;<br>;
+HIA;HIA;^10600;
+
+//// END RVF2 ////

@@ -12,103 +12,103 @@ jobs:
         - uses: actions/checkout@v1
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZEG.zip . -i Include/XA/czeg/* "CZEG Edmonton FIR.isc"
+            args: zip -qq -r CZEG.zip . -i Include/US/czeg/* "CZEG Edmonton FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZQM.zip . -i Include/XA/czqm/* "CZQM Moncton FIR.isc"
+            args: zip -qq -r CZQM.zip . -i Include/US/czqm/* "CZQM Moncton FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZUL.zip . -i Include/XA/czul/* "CZUL Montreal FIR.isc"
+            args: zip -qq -r CZUL.zip . -i Include/US/czul/* "CZUL Montreal FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CDQX.zip . -i Include/XA/cdqx/* "CDQX Gander FIR.isc"                       
+            args: zip -qq -r CDQX.zip . -i Include/US/cdqx/* "CDQX Gander FIR.isc"                       
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZVR.zip . -i Include/XA/czvr/* "CZVR Vancouver FIR.isc"
+            args: zip -qq -r CZVR.zip . -i Include/US/czvr/* "CZVR Vancouver FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZWG.zip . -i Include/XA/czwg/* "CZWG Winnipeg FIR.isc"
+            args: zip -qq -r CZWG.zip . -i Include/US/czwg/* "CZWG Winnipeg FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZYZ.zip . -i Include/XA/czyz/* "CZYZ Toronto FIR.isc"
+            args: zip -qq -r CZYZ.zip . -i Include/US/czyz/* "CZYZ Toronto FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAB.zip . -i Include/XA/kzab/* "KZAB Albuquerque ARTCC.isc"
+            args: zip -qq -r KZAB.zip . -i Include/US/kzab/* "KZAB Albuquerque ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK Oakland Oceanic FIR.isc"
+            args: zip -qq -r KZAK.zip . -i Include/US/kzak/* "KZAK Oakland Oceanic FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAU.zip . -i Include/XA/kzau/* "KZAU Chicago ARTCC.isc"
+            args: zip -qq -r KZAU.zip . -i Include/US/kzau/* "KZAU Chicago ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZBW.zip . -i Include/XA/kzbw/* "KZBW Boston ARTCC.isc"
+            args: zip -qq -r KZBW.zip . -i Include/US/kzbw/* "KZBW Boston ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZDC.zip . -i Include/XA/kzdc/* "KZDC Washington ARTCC.isc"
+            args: zip -qq -r KZDC.zip . -i Include/US/kzdc/* "KZDC Washington ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZDV.zip . -i Include/XA/kzdv/* "KZDV Denver ARTCC.isc"
+            args: zip -qq -r KZDV.zip . -i Include/US/kzdv/* "KZDV Denver ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZFW.zip . -i Include/XA/kzfw/* "KZFW Fort Worth ARTCC.isc"
+            args: zip -qq -r KZFW.zip . -i Include/US/kzfw/* "KZFW Fort Worth ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZHU.zip . -i Include/XA/kzhu/* "KZHU Houston ARTCC.isc"
+            args: zip -qq -r KZHU.zip . -i Include/US/kzhu/* "KZHU Houston ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZID.zip . -i Include/XA/kzid/* "KZID Indianapolis ARTCC.isc"
+            args: zip -qq -r KZID.zip . -i Include/US/kzid/* "KZID Indianapolis ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZJX.zip . -i Include/XA/kzjx/* "KZJX Jacksonville ARTCC.isc"
+            args: zip -qq -r KZJX.zip . -i Include/US/kzjx/* "KZJX Jacksonville ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZKC.zip . -i Include/XA/kzkc/* "KZKC Kansas City ARTCC.isc"
+            args: zip -qq -r KZKC.zip . -i Include/US/kzkc/* "KZKC Kansas City ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZLA.zip . -i Include/XA/kzla/* "KZLA Los Angeles ARTCC.isc"
+            args: zip -qq -r KZLA.zip . -i Include/US/kzla/* "KZLA Los Angeles ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZLC.zip . -i Include/XA/kzlc/* "KZLC Salt Lake City ARTCC.isc"
+            args: zip -qq -r KZLC.zip . -i Include/US/kzlc/* "KZLC Salt Lake City ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZMA.zip . -i Include/XA/kzma/* "KZMA Miami ARTCC.isc"
+            args: zip -qq -r KZMA.zip . -i Include/US/kzma/* "KZMA Miami ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZME.zip . -i Include/XA/kzme/* "KZME Memphis ARTCC.isc"
+            args: zip -qq -r KZME.zip . -i Include/US/kzme/* "KZME Memphis ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZMP.zip . -i Include/XA/kzmp/* "KZMP Minneapolis ARTCC.isc"
+            args: zip -qq -r KZMP.zip . -i Include/US/kzmp/* "KZMP Minneapolis ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZNY.zip . -i Include/XA/kzny/* "KZNY New York ARTCC.isc"
+            args: zip -qq -r KZNY.zip . -i Include/US/kzny/* "KZNY New York ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZOA.zip . -i Include/XA/kzoa/* "KZOA Oakland ARTCC.isc"
+            args: zip -qq -r KZOA.zip . -i Include/US/kzoa/* "KZOA Oakland ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZOB.zip . -i Include/XA/kzob/* "KZOB Cleveland ARTCC.isc"
+            args: zip -qq -r KZOB.zip . -i Include/US/kzob/* "KZOB Cleveland ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZSE.zip . -i Include/XA/kzse/* "KZSE Seattle ARTCC.isc"
+            args: zip -qq -r KZSE.zip . -i Include/US/kzse/* "KZSE Seattle ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZTL.zip . -i Include/XA/kztl/* "KZTL Atlanta ARTCC.isc"
+            args: zip -qq -r KZTL.zip . -i Include/US/kztl/* "KZTL Atlanta ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r MYNA.zip . -i Include/XA/myna/* "MYNA Nassau FIR.isc"
+            args: zip -qq -r MYNA.zip . -i Include/US/myna/* "MYNA Nassau FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PAZA.zip . -i Include/XA/paza/* "PAZA Anchorage ARTCC.isc"
+            args: zip -qq -r PAZA.zip . -i Include/US/paza/* "PAZA Anchorage ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PGZU.zip . -i Include/XA/pgzu/* "PGZU Guam CERAP.isc"
+            args: zip -qq -r PGZU.zip . -i Include/US/pgzu/* "PGZU Guam CERAP.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PHZH.zip . -i Include/XA/phzh/* "PHZH Honolulu ARTCC.isc"
+            args: zip -qq -r PHZH.zip . -i Include/US/phzh/* "PHZH Honolulu ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r TJZS.zip . -i Include/XA/tjzs/* "TJZS San Juan ARTCC.isc"
+            args: zip -qq -r TJZS.zip . -i Include/US/tjzs/* "TJZS San Juan ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZWY.zip . -i "KZWY New York Oceanic FIR.isc"    

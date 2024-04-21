@@ -1,0 +1,20 @@
+// KMNI STARs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+// KMNI Approaches
+
+
+//// NDB02 ////
+KMNI;02;NDB02;KMNI;KMNI;3;
+FN02;FN02;<br>;
+FN02;FN02;@1900;
+CAE;CAE;<br>;
+MNI;MNI;^3000 @210K @210K @210K 
+WESEL;WESEL;
+MNI;MNI;^2300 @210K @210K @210K;
+FN02;FN02;
+
+KMNI;02;GA NDB02;KMNI;KMNI;5;
+MNI;MNI;<br>;
+MNI;MNI;^1900;
+//// END NDB02 ////

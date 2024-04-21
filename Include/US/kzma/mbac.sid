@@ -1,0 +1,27 @@
+// MBAC SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+//// GTK2A ////
+MBAC;07;GTK2A;MBAC;MBAC;
+GTK;GTK;<br>;
+
+//// END GTK2A ////
+
+//// GTK2C ////
+MBAC;25;GTK2C;MBAC;MBAC;
+GTK;GTK;<br>;
+
+//// END GTK2C ////
+
+//// PVN2A ////
+MBAC;07;PVN2A;MBAC;MBAC;
+PVN;PVN;<br>;
+
+//// END PVN2A ////
+
+//// PVN2C ////
+MBAC;25;PVN2C;MBAC;MBAC;
+PVN;PVN;<br>;
+
+//// END PVN2C ////

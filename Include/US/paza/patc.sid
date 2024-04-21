@@ -1,0 +1,26 @@
+// PATC SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+//// HONPO2 ////
+PATC;16;HONPO2;PATC;PATC;
+HONPO;HONPO;<br>;
+HONPO;HONPO;^7000;
+JIPAK;JIPAK;
+
+//// END HONPO2 ////
+
+//// JEKLI2 ////
+PATC;34;JEKLI2;PATC;PATC;
+JEKLI;JEKLI;<br>;
+DELRY;DELRY;
+
+//// END JEKLI2 ////
+
+//// TNC4 ////
+PATC;16;TNC4;PATC;PATC;
+ATAYI;ATAYI;<br>;
+ATAYI;ATAYI;
+JIPAK;JIPAK;
+
+//// END TNC4 ////

@@ -1,0 +1,21 @@
+// KCOF SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+//// OCEAN4 ////
+KCOF;03:21;OCEAN4;KCOF;KCOF;
+TEDAE;TEDAE;<br>;
+TEDAE;TEDAE;v10000;
+COF;COF;<br>;
+TEDAE;TEDAE;v10000;
+
+//// END OCEAN4 ////
+
+//// RIVER4 ////
+KCOF;03:21;RIVER4;KCOF;KCOF;
+COF;COF;<br>;
+PUTVE;PUTVE;v10000;
+PUTVE;PUTVE;<br>;
+PUTVE;PUTVE;v10000;
+
+//// END RIVER4 ////

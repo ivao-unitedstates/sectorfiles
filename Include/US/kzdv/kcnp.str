@@ -1,0 +1,18 @@
+// KCNP STARs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+// KCNP Approaches
+
+
+//// NDB30 ////
+KCNP;30;NDB30;KCNP;KCNP;3;
+ENIWU;ENIWU;<br>;
+ENIWU;ENIWU;@4960;
+CNP;CNP;@3722;
+SNY;SNY;<br>;
+CNP;CNP;^5900 @210K @210K @210K;
+ENIWU;ENIWU;
+
+KCNP;30;GA NDB30;KCNP;KCNP;5;
+CNP;CNP;<br>;
+//// END NDB30 ////

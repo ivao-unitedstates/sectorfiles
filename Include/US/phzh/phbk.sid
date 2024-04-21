@@ -1,0 +1,23 @@
+// PHBK SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+//// KEKAH5 ////
+PHBK;16:34;KEKAH5;PHBK;PHBK;
+SOK;SOK;<br>;
+SOK;SOK;^5000;
+NAUTI;NAUTI;<br>;
+SOK;SOK;^5000;
+
+//// END KEKAH5 ////
+
+//// SOK6 ////
+PHBK;16:34;SOK6;PHBK;PHBK;
+SOK;SOK;<br>;
+SOK;SOK;^5000;
+NAUTI;NAUTI;<br>;
+NAUTI;NAUTI;
+NAUTI;NAUTI;<br>;
+NAUTI;NAUTI;
+
+//// END SOK6 ////

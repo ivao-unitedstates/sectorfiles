@@ -1,0 +1,31 @@
+// KMFR SIDs
+// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+
+
+
+
+//// JKSN1 ////
+KMFR;14:32;JKSN1;KMFR;KMFR;
+OED;OED;<br>;
+OED;OED;
+OED;OED;<br>;
+OED;OED;
+
+//// END JKSN1 ////
+
+//// MFR1 ////
+KMFR;14;MFR1;KMFR;KMFR;
+BDONA;BDONA;<br>;
+JOWEL;JOWEL;
+KRETS;KRETS;
+LMT;LMT;
+
+//// END MFR1 ////
+
+//// SMKKY1 ////
+KMFR;14;SMKKY1;KMFR;KMFR;
+BLAAZ;BLAAZ;<br>;
+BLAAZ;BLAAZ;^6400;
+SMKKY;SMKKY;
+
+//// END SMKKY1 ////
