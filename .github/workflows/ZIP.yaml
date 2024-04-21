@@ -12,27 +12,6 @@ jobs:
         - uses: actions/checkout@v1
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZEG.zip . -i Include/US/czeg/* "CZEG Edmonton FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
-            args: zip -qq -r CZQM.zip . -i Include/US/czqm/* "CZQM Moncton FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
-            args: zip -qq -r CZUL.zip . -i Include/US/czul/* "CZUL Montreal FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
-            args: zip -qq -r CDQX.zip . -i Include/US/cdqx/* "CDQX Gander FIR.isc"                       
-        - uses: montudor/action-zip@v1
-          with:
-            args: zip -qq -r CZVR.zip . -i Include/US/czvr/* "CZVR Vancouver FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
-            args: zip -qq -r CZWG.zip . -i Include/US/czwg/* "CZWG Winnipeg FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
-            args: zip -qq -r CZYZ.zip . -i Include/US/czyz/* "CZYZ Toronto FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
             args: zip -qq -r KZAB.zip . -i Include/US/kzab/* "KZAB Albuquerque ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
