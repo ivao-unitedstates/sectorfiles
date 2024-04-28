@@ -12,6 +12,9 @@ APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
 RUNWAY;#000000;
+MYGF APP;#363636;
+MYNN APP;#363636;
+MYNA CTR;#363636;
 
 [ATIS]
 F;default.atis
@@ -23,7 +26,6 @@ F;airac\airports.ap
 F;airac\runways.rw
 [FIXES]
 F;airac\fixes.fix
-F;airac\fixes2.fix
 [NDB]
 F;airac\ndb.ndb
 [VOR]
@@ -33,14 +35,13 @@ F;airac\awhigh.awh
 [LOW AIRWAY]
 F;airac\awlow.awl
 [ARTCC]
-F;airspace\myna.artcc
 [ARTCC HIGH]
-F;airspace\mynn_app.artcc
-F;airspace\mygf_app.artcc
 [ARTCC LOW]
 F;airspace\myna_low.artcc
 [GEO]
 F;GEO\coast.geo
+F;GEO\mygf.geo
+F;GEO\mynn.geo
+F;GEO\myna.geo
+
 [FILLCOLOR]
-F;fill\mynn.fcl
-F;fill\mygf.fcl

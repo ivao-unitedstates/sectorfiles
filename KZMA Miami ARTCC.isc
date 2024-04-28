@@ -30,9 +30,18 @@ TRACON;#363636;
 //FT MYERS TRACON (EAST OPS);#363636;
 //FT MYERS TRACON (WEST OPS);#363636;
 //ORLANDO TRACON;#363636;
-//NAVY KEY WEST TRACON;#363636;
 KHST RAPCON;#363636;
 KMIA TRACON;#363636;
+KPBI TRACON;#363636;
+KNQX TRACON;#363636;
+KRSW TRACON;#363636;
+KTPA TRACON;#363636;
+KMCO TRACON;#363636;
+KDAB TRACON;#363636;
+MYGF APP;#363636;
+MYNN APP;#363636;
+MYNA CTR;#363636;
+MBPV APP;#363636;
 
 [ATC]
 F;atc.atc
@@ -64,15 +73,6 @@ F;airspace\kzma_high.artcc
 F;airspace\myna.artcc
 
 [ARTCC HIGH]
-F;app\mynn.artcc
-F;app\mygf.artcc
-F;app\mbpv.artcc
-F;app\key.artcc
-F;app\pbi.artcc
-F;app\rsw.artcc
-F;app\tpa.artcc
-F;app\mco.artcc
-F;app\dab.artcc
 
 [ARTCC LOW]
 F;airspace\Class B.artcc
@@ -91,13 +91,21 @@ F;geo\warning.geo
 F;geo\moa.geo
 F;app\mco.geo
 F;app\mia.geo
+F;app\pbi.geo
+F;app\nqx.geo
+F;app\rsw.geo
+F;app\tpa.geo
+F;app\dab.geo
+F;app\mygf.geo
+F;app\mynn.geo
+F;app\mbpv.geo
+F;app\myna.geo
 
 //F;app\ftmyers_tracon_east.geo
 //F;app\ftmyers_tracon_west.geo
-F;app\homestead_approach.geo
+//F;app\homestead_approach.geo
 //F;app\miami_tracon_east.geo
 //F;app\miami_tracon_west.geo
-//F;app\navykeywest_tracon.geo
 //F;app\orlando_tracon.geo
 //F;app\palmbeach_tracon_east.geo
 //F;app\palmbeach_tracon_west.geo
