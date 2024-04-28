@@ -31,7 +31,8 @@ TRACON;#363636;
 //FT MYERS TRACON (WEST OPS);#363636;
 //ORLANDO TRACON;#363636;
 //NAVY KEY WEST TRACON;#363636;
-//HOMESTEAD APPROACH;#363636;
+KHST RAPCON;#363636;
+KMIA TRACON;#363636;
 
 [ATC]
 F;atc.atc
@@ -66,9 +67,7 @@ F;airspace\myna.artcc
 F;app\mynn.artcc
 F;app\mygf.artcc
 F;app\mbpv.artcc
-F;app\hst.artcc
 F;app\key.artcc
-F;app\mia.artcc
 F;app\pbi.artcc
 F;app\rsw.artcc
 F;app\tpa.artcc
@@ -91,10 +90,11 @@ F;geo\restrict.geo
 F;geo\warning.geo
 F;geo\moa.geo
 F;app\mco.geo
+F;app\mia.geo
 
 //F;app\ftmyers_tracon_east.geo
 //F;app\ftmyers_tracon_west.geo
-//F;app\homestead_approach.geo
+F;app\homestead_approach.geo
 //F;app\miami_tracon_east.geo
 //F;app\miami_tracon_west.geo
 //F;app\navykeywest_tracon.geo
