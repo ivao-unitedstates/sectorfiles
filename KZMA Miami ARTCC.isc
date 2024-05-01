@@ -54,7 +54,6 @@ F;airac\runways.rw
 
 [FIXES]
 F;airac\fixes.fix
-F;airac\fixes2.fix
 
 [NDB]
 F;airac\ndb.ndb
@@ -69,10 +68,10 @@ F;airac\awhigh.awh
 F;airac\awlow.awl
 
 [ARTCC]
-F;airspace\kzma_high.artcc
-F;airspace\myna.artcc
+F;airspace\kzma.artcc
 
 [ARTCC HIGH]
+F;airspace\kzma_high.artcc
 
 [ARTCC LOW]
 F;airspace\Class B.artcc
