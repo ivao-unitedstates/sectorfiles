@@ -1,14 +1,7 @@
 *.ini
 -include/
-!Include/XA
+!Include/US
 *.isc
-!CDQX Gander FIR.isc
-!CZQM Moncton FIR.isc
-!CZQX Gander-Shanwick Oceanic FIR.isc
-!CZUL Montreal FIR.isc
-!CZVR Vancouver FIR.isc
-!CZWG Winnipeg FIR.isc
-!CZYZ Toronto FIR.isc
 !KZAB Albuquerque ARTCC.isc
 !KZAK Oakland Oceanic FIR.isc
 !KZAU Chicago ARTCC.isc
