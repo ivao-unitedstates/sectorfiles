@@ -17,19 +17,6 @@ APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
 RUNWAY;#000000;
-//VIDEO MAPS; COLORS (GEO)
-//KSEA SOUTH;#363636;
-//KSEA NORTH;#363636;
-//KPDX EAST;#363636;
-//KPDX WEST;#363636;
-//KEUG TRACON;#363636;
-//KGEG TRACON;#363636;
-//KLMT TRACON;#363636;
-//KMFR TRACON;#363636;
-//KMWH TRACON;#363636;
-//KNUC RAPCON;#363636;
-//KPSC TRACON;#363636;
-//KYKM TRACON;#363636;
 
 [ATC]
 F;atc.atc
@@ -77,25 +64,11 @@ F;airspace\class_c.artcc
 F;airspace\class_d.artcc
 
 [GEO]
-F;GEO\coast.geo
-F;GEO\ksea_txc.geo
-F;GEO\moa.geo
-F;GEO\warning.geo
-F;GEO\restrict.geo
-
-//APPROACHES
-//F;app\keug tracon.geo
-//F;app\kgeg tracon.geo
-//F;app\klmt tracon.geo
-//F;app\kmfr tracon.geo
-//F;app\ksea south.geo
-//F;app\ksea north.geo
-//F;app\kpdx east.geo
-//F;app\kpdx west.geo
-//F;app\kmwh tracon.geo
-//F;app\knuc rapcon.geo
-//F;app\kpsc tracon.geo
-//F;app\kykm tracon.geo
+F;geo\coast.geo
+F;geo\ksea_txc.geo
+F;geo\moa.geo
+F;geo\warning.geo
+F;geo\restrict.geo
 
 //parking lines
 F;ad\ksea.geo
