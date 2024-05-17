@@ -1,5 +1,5 @@
 // KLSF STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KLSF Approaches
 
@@ -11,9 +11,6 @@ PHENS;PHENS;^2400;
 NAFOR;NAFOR;@2100;
 CIDIV;CIDIV;^1000;
 CSG;CSG;<br>;
-PHENS;PHENS;^2400;
-PHENS;PHENS;
-TGE;TGE;<br>;
 PHENS;PHENS;^2400;
 PHENS;PHENS;
 

@@ -1,15 +1,19 @@
 // PHLI SIDs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 
-//// KAUAI1 ////
-PHLI;03:17:21:35;KAUAI1;PHLI;PHLI;
-LIH;LIH;<br>;
-LIH;LIH;<br>;
-LIH;LIH;<br>;
-LIH;LIH;<br>;
+//// KAUAI2 ////
+PHLI;03:17:21:35;KAUAI2;PHLI;PHLI;
+KAUAI;KAUAI;<br>;
+KAUAI;KAUAI;
+KAUAI;KAUAI;<br>;
+KAUAI;KAUAI;
+KAUAI;KAUAI;<br>;
+KAUAI;KAUAI;
+KAUAI;KAUAI;<br>;
+KAUAI;KAUAI;
 
-//// END KAUAI1 ////
+//// END KAUAI2 ////
 
 //// LIHUE6 ////
 PHLI;03:35;LIHUE6;PHLI;PHLI;

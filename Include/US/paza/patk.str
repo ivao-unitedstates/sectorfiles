@@ -1,5 +1,5 @@
 // PATK STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // PATK Approaches
 
@@ -56,14 +56,3 @@ PATK;19;GA RNV19;PATK;PATK;5;
 IXIQE;IXIQE;<br>;
 URTOW;URTOW;^3000;
 //// END RNV19 ////
-
-//// VORA01 ////
-PATK;01;VORA01;PATK;PATK;3;
-TKA;TKA;<br>;
-TKA;TKA;@1300 @210K @210K @210K;
-TKA;TKA;
-
-PATK;01;GA VORA01;PATK;PATK;5;
-TKA;TKA;<br>;
-TKA;TKA;^3200;
-//// END VORA01 ////

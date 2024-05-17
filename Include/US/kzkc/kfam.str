@@ -1,5 +1,5 @@
 // KFAM STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KFAM Approaches
 
@@ -43,13 +43,13 @@ FAM;FAM;^3000;
 //// RNV02 ////
 KFAM;02;RNV02;KFAM;KFAM;3;
 YURGE;YURGE;<br>;
-YURGE;YURGE;^3100;
+YURGE;YURGE;^3300;
 WEDTO;WEDTO;@2700;
 BUNKS;BUNKS;<br>;
 JOLAG;JOLAG;^3300;
 YURGE;YURGE;
 FAM;FAM;<br>;
-HODOX;HODOX;^3100;
+HODOX;HODOX;^3300;
 YURGE;YURGE;
 YURGE;YURGE;
 

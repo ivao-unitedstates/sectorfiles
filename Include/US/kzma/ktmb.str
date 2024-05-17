@@ -1,5 +1,5 @@
 // KTMB STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KTMB Approaches
 
@@ -10,7 +10,7 @@ CFDXW;CFDXW;<br>;
 CFDXW;CFDXW;^2000;
 LAYDN;LAYDN;@1500;
 VKZ;VKZ;<br>;
-LAYDN;LAYDN;^2500 @210K;
+LAYDN;LAYDN;^2500 @210K @210K @210K;
 CFDXW;CFDXW;
 
 KTMB;09R;GA ILS09R;KTMB;KTMB;5;

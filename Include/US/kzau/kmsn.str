@@ -1,5 +1,5 @@
 // KMSN STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KMSN Approaches
 
@@ -183,6 +183,22 @@ KMSN;32;GA VOR32;KMSN;KMSN;5;
 MSN;MSN;<br>;
 MSN;MSN;
 //// END VOR32 ////
+
+//// TAC18 ////
+KMSN;18;TAC18;KMSN;KMSN;3;
+RILRY;RILRY;<br>;
+RILRY;RILRY;^4000;
+APMEF;APMEF;@2600;
+DRAHN;DRAHN;<br>;
+RILRY;RILRY;
+NEETA;NEETA;<br>;
+NEETA;NEETA;^10000;
+RILRY;RILRY;
+
+KMSN;18;GA TAC18;KMSN;KMSN;5;
+DRAHN;DRAHN;<br>;
+DRAHN;DRAHN;^4000;
+//// END TAC18 ////
 
 //// TAC36 ////
 KMSN;36;TAC36;KMSN;KMSN;3;

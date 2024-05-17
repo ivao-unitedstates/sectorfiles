@@ -1,5 +1,5 @@
 // KLEX STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KLEX Approaches
 
@@ -146,26 +146,3 @@ HYK;HYK;
 KLEX;27;GA VORA27;KLEX;KLEX;5;
 HYK;HYK;<br>;
 //// END VORA27 ////
-
-// KLEX Arrivals
-
-
-//// CLEGG5 ////
-KLEX;04:09:22:27;CLEGG5;KLEX;KLEX;
-CVG;CVG;<br>;
-WARSA;WARSA;
-NERVE;NERVE;
-RDSTN;RDSTN;
-CLEGG;CLEGG;
-CLEGG;CLEGG;<br>;
-HYK;HYK;
-
-KLEX;04:09:22:27;CVG.CLEGG5;KLEX;KLEX;1;
-CLEGG;CLEGG;<br>;
-HYK;HYK;
-CVG;CVG;<br>;
-WARSA;WARSA;
-NERVE;NERVE;
-RDSTN;RDSTN;
-CLEGG;CLEGG;
-//// END CLEGG5 ////

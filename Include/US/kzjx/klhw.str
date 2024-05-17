@@ -1,23 +1,8 @@
 // KLHW STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KLHW Approaches
 
-
-//// NDB33R ////
-KLHW;33R;NDB33R;KLHW;KLHW;3;
-MOQ;MOQ;<br>;
-MOQ;MOQ;@1500;
-HARPS;HARPS;<br>;
-MOQ;MOQ;^3000 @210K @210K @210K 
-JANIE;JANIE;
-MOQ;MOQ;^3000 @210K @210K @210K;
-MOQ;MOQ;
-
-KLHW;33R;GA NDB33R;KLHW;KLHW;5;
-MOQ;MOQ;<br>;
-MOQ;MOQ;^2300;
-//// END NDB33R ////
 
 //// RNV06L ////
 KLHW;06L;RNV06L;KLHW;KLHW;3;

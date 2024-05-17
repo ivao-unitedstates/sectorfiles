@@ -1,5 +1,5 @@
 // KRMN STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KRMN Approaches
 
@@ -10,12 +10,12 @@ WALOX;WALOX;<br>;
 WALOX;WALOX;^3000;
 CODAC;CODAC;@2000;
 BRV;BRV;<br>;
-HIGAP;HIGAP;
+WALOX;WALOX;^3000;
 WALOX;WALOX;
 
 KRMN;33;GA ILS33;KRMN;KRMN;5;
 BRV;BRV;<br>;
-BRV;BRV;^2000;
+BRV;BRV;^2100;
 //// END ILS33 ////
 
 //// RNV33 ////
@@ -32,9 +32,8 @@ GRUBY;GRUBY;^3000;
 RISVE;RISVE;
 
 KRMN;33;GA RNV33;KRMN;KRMN;5;
-KOBEC;KOBEC;<br>;
-TECOV;TECOV;
-FALKO;FALKO;^4000;
+FALKO;FALKO;<br>;
+FALKO;FALKO;^3000;
 //// END RNV33 ////
 
 //// VOR33 ////

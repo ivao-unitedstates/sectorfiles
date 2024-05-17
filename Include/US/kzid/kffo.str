@@ -1,5 +1,5 @@
 // KFFO STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KFFO Approaches
 
@@ -180,19 +180,3 @@ APE;APE;<br>;
 COOJO;COOJO;
 DANEI;DANEI;
 //// END DANEI3 ////
-
-//// KEKEE4 ////
-KFFO;05L:05R:23L:23R;KEKEE4;KFFO;KFFO;
-FLM;FLM;<br>;
-LODLL;LODLL;
-BRYNN;BRYNN;
-KEKEE;KEKEE;
-KEKEE;KEKEE;<br>;
-
-KFFO;05L:05R:23L:23R;FLM.KEKEE4;KFFO;KFFO;1;
-KEKEE;KEKEE;<br>;
-FLM;FLM;<br>;
-LODLL;LODLL;
-BRYNN;BRYNN;
-KEKEE;KEKEE;
-//// END KEKEE4 ////

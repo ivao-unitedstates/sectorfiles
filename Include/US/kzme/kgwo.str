@@ -1,5 +1,5 @@
 // KGWO STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KGWO Approaches
 
@@ -26,7 +26,7 @@ SQS;SQS;^2500;
 KGWO;18;ILS18;KGWO;KGWO;3;
 PASWU;PASWU;<br>;
 PASWU;PASWU;^2100;
-TEOCK;TEOCK;@1999;
+TEOCK;TEOCK;@2100;
 SQS;SQS;<br>;
 TEOCK;TEOCK;^2100 @210K @210K @210K 
 TILUC;TILUC;

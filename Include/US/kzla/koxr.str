@@ -1,5 +1,5 @@
 // KOXR STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KOXR Approaches
 
@@ -9,6 +9,9 @@ KOXR;25;ILS25;KOXR;KOXR;3;
 HUPLA;HUPLA;<br>;
 HUPLA;HUPLA;^3700;
 NELLY;NELLY;@3200;
+CUDAK;CUDAK;<br>;
+CUDAK;CUDAK;^4200;
+HUPLA;HUPLA;
 VNY;VNY;<br>;
 GUYBE;GUYBE;^5000;
 CUDAK;CUDAK;^4200;
@@ -19,8 +22,8 @@ CUDAK;CUDAK;^4200;
 HUPLA;HUPLA;
 
 KOXR;25;GA ILS25;KOXR;KOXR;5;
-SQUID;SQUID;<br>;
-SQUID;SQUID;^2000;
+CMA;CMA;<br>;
+CMA;CMA;^4400;
 //// END ILS25 ////
 
 //// RNV07 ////

@@ -1,19 +1,8 @@
 // KPCW STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KPCW Approaches
 
-
-//// NDB27 ////
-KPCW;27;NDB27;KPCW;KPCW;3;
-FF27;FF27;<br>;
-FF27;FF27;@2300;
-AYZEL;AYZEL;^1400 @210K @210K @210K;
-FF27;FF27;
-
-KPCW;27;GA NDB27;KPCW;KPCW;5;
-PCW;PCW;<br>;
-//// END NDB27 ////
 
 //// RNV09 ////
 KPCW;09;RNV09;KPCW;KPCW;3;

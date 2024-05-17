@@ -1,5 +1,5 @@
 // KANE SIDs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 
 //// COULT7 ////
@@ -25,31 +25,8 @@ LMFRY;LMFRY;
 DLL;DLL;
 //// END COULT7 ////
 
-//// DWN8 ////
-KANE;09:18:27:36;DWN8;KANE;KANE;
-MSP;MSP;<br>;
-MSP;MSP;<br>;
-MSP;MSP;<br>;
-MSP;MSP;<br>;
-INUNE;INUNE;
-INUNE;INUNE;<br>;
-DWN;DWN;
-DWN;DWN;<br>;
-ABR;ABR;
-
-KANE;09:18:27:36;DWN8.ABR;KANE;KANE;1;
-MSP;MSP;<br>;
-MSP;MSP;<br>;
-MSP;MSP;<br>;
-MSP;MSP;<br>;
-INUNE;INUNE;
-INUNE;INUNE;<br>;
-DWN;DWN;
-ABR;ABR;
-//// END DWN8 ////
-
-//// KBREW1 ////
-KANE;09:18:27:36;KBREW1;KANE;KANE;
+//// KBREW2 ////
+KANE;09:18:27:36;KBREW2;KANE;KANE;
 GEP;GEP;<br>;
 GEP;GEP;<br>;
 GEP;GEP;<br>;
@@ -61,7 +38,7 @@ KBREW;KBREW;^14000;
 KBREW;KBREW;<br>;
 FAR;FAR;
 
-KANE;09:18:27:36;KBREW1.FAR;KANE;KANE;1;
+KANE;09:18:27:36;KBREW2.FAR;KANE;KANE;1;
 GEP;GEP;<br>;
 GEP;GEP;<br>;
 GEP;GEP;<br>;
@@ -71,7 +48,7 @@ HRBEK;HRBEK;<br>;
 HOMUR;HOMUR;
 KBREW;KBREW;^14000;
 FAR;FAR;
-//// END KBREW1 ////
+//// END KBREW2 ////
 
 //// ORSKY3 ////
 KANE;09:18:27:36;ORSKY3;KANE;KANE;

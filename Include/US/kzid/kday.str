@@ -1,5 +1,5 @@
 // KDAY STARs
-// Auto-generated 4/18/2024 by Wes Sleeman (XA)
+// Auto-generated 5/17/2024 by Wes Sleeman (XA)
 
 // KDAY Approaches
 
@@ -227,19 +227,3 @@ APE;APE;<br>;
 COOJO;COOJO;
 DANEI;DANEI;
 //// END DANEI3 ////
-
-//// KEKEE4 ////
-KDAY;06L:06R:18:24L:24R:36;KEKEE4;KDAY;KDAY;
-FLM;FLM;<br>;
-LODLL;LODLL;
-BRYNN;BRYNN;
-KEKEE;KEKEE;
-KEKEE;KEKEE;<br>;
-
-KDAY;06L:06R:18:24L:24R:36;FLM.KEKEE4;KDAY;KDAY;1;
-KEKEE;KEKEE;<br>;
-FLM;FLM;<br>;
-LODLL;LODLL;
-BRYNN;BRYNN;
-KEKEE;KEKEE;
-//// END KEKEE4 ////
