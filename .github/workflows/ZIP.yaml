@@ -75,9 +75,6 @@ jobs:
             args: zip -qq -r KZTL.zip . -i Include/US/kztl/* "KZTL Atlanta ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r MYNA.zip . -i Include/US/myna/* "MYNA Nassau FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:
             args: zip -qq -r PAZA.zip . -i Include/US/paza/* "PAZA Anchorage ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
