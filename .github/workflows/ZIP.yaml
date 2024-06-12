@@ -87,7 +87,7 @@ jobs:
             args: zip -qq -r TJZS.zip . -i Include/US/tjzs/* "TJZS San Juan ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZWY.zip . -i "KZWY New York Oceanic FIR.isc"    
+            args: zip -qq -r KZWY.zip . -i Include/US/kzwy/* "KZWY New York Oceanic FIR.isc"    
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r ALL_SECTORS.zip . -i *.zip
