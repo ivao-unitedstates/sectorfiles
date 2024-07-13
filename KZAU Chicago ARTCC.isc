@@ -25,7 +25,7 @@ C90 TRACON;#363636;
 //KCID APP;#363636;
 //KFWA APP;#363636;
 //KGRR APP;#363636;
-KMKE APP;#363636;
+//KMKE APP;#363636;
 //KMLI APP;#363636;
 //KMSN APP;#363636;
 //KRFD APP;#363636;
@@ -60,6 +60,11 @@ F;airac\awlow.awl
 F;airspace\kzau.artcc
 
 [ARTCC HIGH]
+F;airspace\kspi.artcc
+F;airspace\kdsm.artcc
+F;airspace\kgrb.artcc
+F;airspace\kmbs.artcc
+F;airspace\kind.artcc
 F;airspace\kalo.artcc
 F;airspace\kord.artcc
 F;airspace\kcid.artcc
