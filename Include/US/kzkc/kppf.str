@@ -1,20 +1,8 @@
 // KPPF STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KPPF Approaches
 
-
-//// VDM17 ////
-KPPF;17;VDM17;KPPF;KPPF;3;
-PETCI;PETCI;<br>;
-PETCI;PETCI;^3000;
-NUCIK;NUCIK;@2500;
-PETCI;PETCI;
-
-KPPF;17;GA VDM17;KPPF;KPPF;5;
-CNU;CNU;<br>;
-CNU;CNU;^3000;
-//// END VDM17 ////
 
 //// RNV17 ////
 KPPF;17;RNV17;KPPF;KPPF;3;

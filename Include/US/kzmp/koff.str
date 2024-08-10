@@ -1,5 +1,5 @@
 // KOFF STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KOFF Approaches
 
@@ -145,6 +145,9 @@ LOOKR;LOOKR;^9500;
 TYTAN;TYTAN;
 TYTAN;TYTAN;
 
+KOFF;31;GA TACZ31;KOFF;KOFF;5;
+SARPY;SARPY;<br>;
+SARPY;SARPY;^3000;
 //// END TACZ31 ////
 
 // KOFF Arrivals

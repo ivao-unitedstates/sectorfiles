@@ -1,5 +1,5 @@
 // KFFO STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KFFO Approaches
 
@@ -111,7 +111,8 @@ CLACK;CLACK;v6000 ^3100;
 FERLO;FERLO;
 
 KFFO;05L;GA TAC05L;KFFO;KFFO;5;
-CLACK;CLACK;<br>;
+ARAKE;ARAKE;<br>;
+ARAKE;ARAKE;^2000;
 CLACK;CLACK;^3100;
 //// END TAC05L ////
 

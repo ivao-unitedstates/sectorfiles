@@ -1,5 +1,5 @@
 // KLSF STARs
-// Auto-generated 6/13/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KLSF Approaches
 
@@ -23,7 +23,7 @@ OMAHO;OMAHO;^2400;
 KLSF;33;ILS33;KLSF;KLSF;3;
 GETRR;GETRR;<br>;
 GETRR;GETRR;^2200;
-JMPER;JMPER;@1689;
+JMPER;JMPER;@1454;
 RENFO;RENFO;<br>;
 RENFO;RENFO;^3000;
 GETRR;GETRR;

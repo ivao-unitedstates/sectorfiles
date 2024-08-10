@@ -1,8 +1,24 @@
 // KZPH STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KZPH Approaches
 
+
+//// RNV01 ////
+KZPH;01;RNV01;KZPH;KZPH;3;
+UFSOP;UFSOP;<br>;
+UFSOP;UFSOP;^2000;
+ERKAF;ERKAF;@1700;
+ELIJE;ELIJE;<br>;
+UFSOP;UFSOP;
+ICZOR;ICZOR;<br>;
+UFSOP;UFSOP;
+UFSOP;UFSOP;
+
+KZPH;01;GA RNV01;KZPH;KZPH;5;
+IXROV;IXROV;<br>;
+IXROV;IXROV;^2000;
+//// END RNV01 ////
 
 //// RNV05 ////
 KZPH;05;RNV05;KZPH;KZPH;3;

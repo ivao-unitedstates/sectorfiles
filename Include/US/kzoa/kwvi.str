@@ -1,5 +1,5 @@
 // KWVI STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KWVI Approaches
 
@@ -33,8 +33,8 @@ RISPE;RISPE;^4000 @210K;
 IFAFY;IFAFY;
 
 KWVI;02;GA RNV02;KWVI;KWVI;5;
-SHOEY;SHOEY;<br>;
-SHOEY;SHOEY;^6000 @185K;
+IFAFY;IFAFY;<br>;
+IFAFY;IFAFY;^3000 @200K;
 //// END RNV02 ////
 
 //// VORA02 ////

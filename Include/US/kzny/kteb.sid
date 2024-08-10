@@ -1,5 +1,5 @@
 // KTEB SIDs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 
 
@@ -19,3 +19,11 @@ TEB;TEB;<br>;
 TEB;TEB;<br>;
 
 //// END TEB4 ////
+
+//// WENTZ1 ////
+KTEB;24;WENTZ1;KTEB;KTEB;
+DAVIM;DAVIM;<br>;
+WENTZ;WENTZ;@1500;
+RUUDY;RUUDY;
+
+//// END WENTZ1 ////

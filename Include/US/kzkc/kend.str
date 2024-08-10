@@ -1,5 +1,5 @@
 // KEND STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KEND Approaches
 
@@ -29,6 +29,9 @@ FEPER;FEPER;<br>;
 FEPER;FEPER;^4000;
 PISOE;PISOE;
 
+KEND;17R;GA VDM17R;KEND;KEND;5;
+ADOWS;ADOWS;<br>;
+ADOWS;ADOWS;^4000;
 //// END VDM17R ////
 
 //// VDM35L ////
@@ -186,6 +189,9 @@ FEPER;FEPER;<br>;
 FEPER;FEPER;^4000;
 PISOE;PISOE;
 
+KEND;17R;GA TAC17R;KEND;KEND;5;
+ADOWS;ADOWS;<br>;
+ADOWS;ADOWS;^4000;
 //// END TAC17R ////
 
 //// TAC35L ////

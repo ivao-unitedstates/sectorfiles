@@ -1,5 +1,5 @@
 // KMHR STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KMHR Approaches
 
@@ -62,7 +62,7 @@ GALTS;GALTS;<br>;
 LOGYE;LOGYE;^2000;
 LOGYE;LOGYE;
 PIVSE;PIVSE;<br>;
-SAC;SAC;^3000;
+SAC;SAC;^3000 @210K;
 LOGYE;LOGYE;
 
 KMHR;04R;GA RNV04R;KMHR;KMHR;5;

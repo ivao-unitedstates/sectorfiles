@@ -1,5 +1,5 @@
 // KSKF STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KSKF Approaches
 
@@ -117,6 +117,7 @@ IDEEL;IDEEL;
 
 KSKF;16;GA TACY16;KSKF;KSKF;5;
 KSY;KSY;<br>;
+KSY;KSY;
 FITER;FITER;^3000;
 //// END TACY16 ////
 
@@ -138,6 +139,7 @@ IDEEL;IDEEL;
 
 KSKF;16;GA TACZ16;KSKF;KSKF;5;
 KSY;KSY;<br>;
+KSY;KSY;
 FITER;FITER;^3000;
 //// END TACZ16 ////
 

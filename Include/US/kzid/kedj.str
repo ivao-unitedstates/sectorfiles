@@ -1,5 +1,5 @@
 // KEDJ STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KEDJ Approaches
 
@@ -26,7 +26,8 @@ KEDJ;25;VDM25;KEDJ;KEDJ;3;
 ZEDIN;ZEDIN;<br>;
 ZEDIN;ZEDIN;^4000;
 DUVEC;DUVEC;@3000;
-CADAY;CADAY;^2100;
+CADAY;CADAY;^2460;
+FLIED;FLIED;^2060;
 GIRSE;GIRSE;@1167;
 ROD;ROD;<br>;
 ZEDIN;ZEDIN;^4000;

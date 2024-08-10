@@ -1,5 +1,5 @@
 // KHMN STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KHMN Approaches
 
@@ -111,7 +111,7 @@ LEVAK;LEVAK;
 
 KHMN;22;GA RNV22;KHMN;KHMN;5;
 JOBAM;JOBAM;<br>;
-JOBAM;JOBAM;@7000 @265K;
+JOBAM;JOBAM;^7000;
 //// END RNV22 ////
 
 //// RNV34 ////

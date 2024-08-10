@@ -1,22 +1,8 @@
 // KLCQ STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KLCQ Approaches
 
-
-//// NDB28 ////
-KLCQ;28;NDB28;KLCQ;KLCQ;3;
-FF28;FF28;<br>;
-FF28;FF28;@2000;
-GNV;GNV;<br>;
-LCQ;LCQ;^3000 @210K @210K @210K;
-FF28;FF28;
-
-KLCQ;28;GA NDB28;KLCQ;KLCQ;5;
-LCQ;LCQ;<br>;
-LCQ;LCQ;^610;
-LCQ;LCQ;^2000;
-//// END NDB28 ////
 
 //// RNV10 ////
 KLCQ;10;RNV10;KLCQ;KLCQ;3;

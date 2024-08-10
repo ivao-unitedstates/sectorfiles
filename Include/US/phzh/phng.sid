@@ -1,5 +1,5 @@
 // PHNG SIDs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 
 //// HELUX5 ////
@@ -14,19 +14,6 @@ MKK;MKK;
 
 //// END HELUX5 ////
 
-//// KANEO5 ////
-PHNG;04:22;KANEO5;PHNG;PHNG;
-FUZZE;FUZZE;<br>;
-FUZZE;FUZZE;^6000;
-HEROV;HEROV;
-SOK;SOK;
-FUZZE;FUZZE;<br>;
-FUZZE;FUZZE;
-HEROV;HEROV;
-SOK;SOK;
-
-//// END KANEO5 ////
-
 //// MUGGE9 ////
 PHNG;04:22;MUGGE9;PHNG;PHNG;
 MUGGE;MUGGE;<br>;
@@ -39,3 +26,16 @@ OMINE;OMINE;
 HNL;HNL;@250K;
 
 //// END MUGGE9 ////
+
+//// NGF5 ////
+PHNG;04:22;NGF5;PHNG;PHNG;
+FUZZE;FUZZE;<br>;
+FUZZE;FUZZE;^6000;
+HEROV;HEROV;
+SOK;SOK;
+FUZZE;FUZZE;<br>;
+FUZZE;FUZZE;
+HEROV;HEROV;
+SOK;SOK;
+
+//// END NGF5 ////

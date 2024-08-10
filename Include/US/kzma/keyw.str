@@ -1,32 +1,8 @@
 // KEYW STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KEYW Approaches
 
-
-//// NDBA09 ////
-KEYW;09;NDBA09;KEYW;KEYW;3;
-FIS;FIS;<br>;
-FIS;FIS;@900;
-EYW;EYW;<br>;
-FIS;FIS;^1500 @210K @210K @210K;
-FIS;FIS;
-
-KEYW;09;GA NDBA09;KEYW;KEYW;5;
-FIS;FIS;<br>;
-//// END NDBA09 ////
-
-//// NDBA27 ////
-KEYW;27;NDBA27;KEYW;KEYW;3;
-FIS;FIS;<br>;
-FIS;FIS;@900;
-EYW;EYW;<br>;
-FIS;FIS;^1500 @210K @210K @210K;
-FIS;FIS;
-
-KEYW;27;GA NDBA27;KEYW;KEYW;5;
-FIS;FIS;<br>;
-//// END NDBA27 ////
 
 //// RNV09 ////
 KEYW;09;RNV09;KEYW;KEYW;3;

@@ -1,5 +1,5 @@
 // KPOE STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KPOE Approaches
 
@@ -43,10 +43,12 @@ KPOE;16;VOR16;KPOE;KPOE;3;
 FXU;FXU;<br>;
 FXU;FXU;@1600;
 CATVO;CATVO;<br>;
+CATVO;CATVO;^2000;
 FXU;FXU;^2000 @210K @210K @210K 
-COCOS;COCOS;
+COCOS;COCOS;^2000 @230K;
 FXU;FXU;
 DXB;DXB;<br>;
+DXB;DXB;^2000;
 FXU;FXU;^2000 @210K @210K @210K;
 FXU;FXU;
 

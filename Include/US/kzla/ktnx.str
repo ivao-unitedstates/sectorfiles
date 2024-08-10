@@ -1,5 +1,5 @@
 // KTNX STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KTNX Approaches
 
@@ -45,6 +45,9 @@ HUBON;HUBON;<br>;
 HUBON;HUBON;^10400;
 IRAVE;IRAVE;
 
+KTNX;32;GA VDM32;KTNX;KTNX;5;
+ROCEN;ROCEN;<br>;
+ROCEN;ROCEN;^11000;
 //// END VDM32 ////
 
 //// VDMZ32 ////

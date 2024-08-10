@@ -1,5 +1,5 @@
 // KSSC STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KSSC Approaches
 
@@ -94,6 +94,9 @@ FASNO;FASNO;@1700;
 REBIE;REBIE;@473;
 GABLE;GABLE;
 
+KSSC;22R;GA TAC22RY;KSSC;KSSC;5;
+PINIE;PINIE;<br>;
+PINIE;PINIE;^2000;
 //// END TAC22RY ////
 
 //// TAC22RZ ////
@@ -106,4 +109,7 @@ CHILI;CHILI;<br>;
 CHILI;CHILI;^11000;
 GABLE;GABLE;
 
+KSSC;22R;GA TAC22RZ;KSSC;KSSC;5;
+PINIE;PINIE;<br>;
+PINIE;PINIE;^2000;
 //// END TAC22RZ ////

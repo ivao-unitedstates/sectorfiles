@@ -1,5 +1,5 @@
 // KLNK STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KLNK Approaches
 
@@ -80,14 +80,13 @@ LNK;LNK;^3100;
 KLNK;36;ILSZ36;KLNK;KLNK;3;
 IYXUN;IYXUN;<br>;
 IYXUN;IYXUN;^4000;
-POTTS;POTTS;@2788;
+FABRE;FABRE;@2800;
 TONKE;TONKE;<br>;
 TONKE;TONKE;^F180;
 IYXUN;IYXUN;
 
 KLNK;36;GA ILSZ36;KLNK;KLNK;5;
 LNK;LNK;<br>;
-LNK;LNK;^3000;
 BUMBE;BUMBE;^3000;
 //// END ILSZ36 ////
 

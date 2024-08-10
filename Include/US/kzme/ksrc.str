@@ -1,5 +1,5 @@
 // KSRC STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KSRC Approaches
 
@@ -10,9 +10,9 @@ CF01;CF01;<br>;
 CF01;CF01;^2300;
 CERCY;CERCY;@1877;
 LIT;LIT;<br>;
-DS;DS;^2300 @210K @210K @210K 
+CERCY;CERCY;^2300 @210K @210K @210K 
 TAFTE;TAFTE;
-DS;DS;^2300 @210K @210K @210K;
+CERCY;CERCY;^2300 @210K @210K @210K;
 CF01;CF01;
 
 KSRC;01;GA ILS01;KSRC;KSRC;5;

@@ -1,9 +1,15 @@
 // PACZ SIDs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 
-//// CZF5 ////
-PACZ;20;CZF5;PACZ;PACZ;
+//// CZF6 ////
+PACZ;20;CZF6;PACZ;PACZ;
 HPB;HPB;<br>;
 
-//// END CZF5 ////
+//// END CZF6 ////
+
+//// HUDEM1 ////
+PACZ;20;HUDEM1;PACZ;PACZ;
+HUDEM;HUDEM;<br>;
+
+//// END HUDEM1 ////

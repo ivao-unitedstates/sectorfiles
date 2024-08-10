@@ -1,5 +1,5 @@
 // KAUH STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KAUH Approaches
 
@@ -41,23 +41,3 @@ KAUH;34;GA RNV34;KAUH;KAUH;5;
 CEGIT;CEGIT;<br>;
 CEGIT;CEGIT;^3400;
 //// END RNV34 ////
-
-//// VORA16 ////
-KAUH;16;VORA16;KAUH;KAUH;3;
-GRI;GRI;<br>;
-GRI;GRI;^3500;
-LOBOY;LOBOY;@3500;
-
-KAUH;16;GA VORA16;KAUH;KAUH;5;
-LOBOY;LOBOY;<br>;
-//// END VORA16 ////
-
-//// VORA34 ////
-KAUH;34;VORA34;KAUH;KAUH;3;
-GRI;GRI;<br>;
-GRI;GRI;^3500;
-LOBOY;LOBOY;@3500;
-
-KAUH;34;GA VORA34;KAUH;KAUH;5;
-LOBOY;LOBOY;<br>;
-//// END VORA34 ////

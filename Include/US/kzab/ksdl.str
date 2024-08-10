@@ -1,5 +1,5 @@
 // KSDL STARs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // KSDL Approaches
 
@@ -108,7 +108,7 @@ KSDL;21;RNV21;KSDL;KSDL;3;
 WLLMN;WLLMN;<br>;
 WLLMN;WLLMN;^4000;
 EEDGR;EEDGR;@3300;
-DNAHO;DNAHO;
+DNAHO;DNAHO;^2249;
 BBALL;BBALL;<br>;
 NAAVE;NAAVE;@6000;
 FRMAN;FRMAN;@5000;

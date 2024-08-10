@@ -1,5 +1,5 @@
 // PALU SIDs
-// Auto-generated 5/17/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 
 //// GRAAY4 ////
@@ -8,3 +8,11 @@ GRAAY;GRAAY;<br>;
 JAPKI;JAPKI;
 
 //// END GRAAY4 ////
+
+//// LUR8 ////
+PALU;09;LUR8;PALU;PALU;
+THRON;THRON;<br>;
+THRON;THRON;@220K;
+THRON;THRON;
+
+//// END LUR8 ////
