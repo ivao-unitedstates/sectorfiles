@@ -1,5 +1,5 @@
 // KJCA STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KJCA Approaches
 
@@ -9,6 +9,7 @@ KJCA;35;VDM35;KJCA;KJCA;3;
 AHN;AHN;<br>;
 AHN;AHN;^2500;
 DUCUT;DUCUT;@2500;
+AHN;AHN;
 
 KJCA;35;GA VDM35;KJCA;KJCA;5;
 DUCUT;DUCUT;<br>;

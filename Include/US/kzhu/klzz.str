@@ -1,5 +1,5 @@
 // KLZZ STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KLZZ Approaches
 
@@ -11,14 +11,15 @@ HUGOD;HUGOD;^3200;
 CUDEG;CUDEG;@2800;
 HUGOD;HUGOD;
 JODEB;JODEB;<br>;
+JODEB;JODEB;@200K;
 HUGOD;HUGOD;
-LLO;LLO;<br>;
-NOTAW;NOTAW;^3200;
+NOTAW;NOTAW;<br>;
+NOTAW;NOTAW;@200K;
 HUGOD;HUGOD;
 
 KLZZ;34;GA RNV34;KLZZ;KLZZ;5;
-GUBVE;GUBVE;<br>;
-AGJ;AGJ;^3000;
+AGJ;AGJ;<br>;
+AGJ;AGJ;^3100;
 //// END RNV34 ////
 
 //// VORA16 ////

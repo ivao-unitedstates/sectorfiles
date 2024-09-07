@@ -1,5 +1,5 @@
 // KRHV SIDs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 
 //// DECOT1 ////
@@ -10,3 +10,10 @@ ANGIF;ANGIF;<br>;
 DECOT;DECOT;^4000;
 
 //// END DECOT1 ////
+
+//// HENCE1 ////
+KRHV;13R:13L;HENCE1;KRHV;KRHV;
+HENCE;HENCE;<br>;
+HENCE;HENCE;
+
+//// END HENCE1 ////

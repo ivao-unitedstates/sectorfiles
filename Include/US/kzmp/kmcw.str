@@ -1,5 +1,5 @@
 // KMCW STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KMCW Approaches
 
@@ -22,6 +22,19 @@ MCW;MCW;<br>;
 MCW;MCW;
 PICDI;PICDI;^3200;
 //// END ILS36 ////
+
+//// RNV12 ////
+KMCW;12;RNV12;KMCW;KMCW;3;
+BEGGA;BEGGA;<br>;
+BEGGA;BEGGA;^3000;
+ADGEW;ADGEW;@2900;
+PIZPO;PIZPO;^2100;
+BEGGA;BEGGA;
+
+KMCW;12;GA RNV12;KMCW;KMCW;5;
+ZIGUV;ZIGUV;<br>;
+ZIGUV;ZIGUV;^3000;
+//// END RNV12 ////
 
 //// RNV18 ////
 KMCW;18;RNV18;KMCW;KMCW;3;

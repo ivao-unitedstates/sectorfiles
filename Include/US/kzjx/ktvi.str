@@ -1,26 +1,8 @@
 // KTVI STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KTVI Approaches
 
-
-//// ILS22 ////
-KTVI;22;ILS22;KTVI;KTVI;3;
-CFCGQ;CFCGQ;<br>;
-CFCGQ;CFCGQ;^2000;
-GTP;GTP;@1568;
-GEF;GEF;<br>;
-GTP;GTP;^2500 @210K @210K @210K 
-HARKE;HARKE;
-GTP;GTP;^2000 @210K @210K @210K 
-OTK;OTK;
-GTP;GTP;^2000 @210K @210K @210K;
-CFCGQ;CFCGQ;
-
-KTVI;22;GA ILS22;KTVI;KTVI;5;
-GTP;GTP;<br>;
-GTP;GTP;^2000;
-//// END ILS22 ////
 
 //// NDB22 ////
 KTVI;22;NDB22;KTVI;KTVI;3;

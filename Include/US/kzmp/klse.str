@@ -1,5 +1,5 @@
 // KLSE STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KLSE Approaches
 
@@ -8,8 +8,9 @@
 KLSE;18;ILS18;KLSE;KLSE;3;
 LANIY;LANIY;<br>;
 LANIY;LANIY;^3000;
-MINDI;MINDI;@2864;
-ELANE;ELANE;<br>;
+OCIPO;OCIPO;@2900;
+EAU;EAU;<br>;
+ELANE;ELANE;^3500;
 JONRO;JONRO;^3500;
 LANIY;LANIY;
 

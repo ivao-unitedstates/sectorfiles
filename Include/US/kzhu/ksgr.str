@@ -1,5 +1,5 @@
 // KSGR STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KSGR Approaches
 
@@ -24,8 +24,10 @@ EBOKE;EBOKE;<br>;
 EBOKE;EBOKE;^2000;
 CASOB;CASOB;@2000;
 BASGE;BASGE;<br>;
+BASGE;BASGE;@210K;
 EBOKE;EBOKE;
 DIZGY;DIZGY;<br>;
+DIZGY;DIZGY;@210K;
 EBOKE;EBOKE;
 
 KSGR;17;GA RNV17;KSGR;KSGR;5;

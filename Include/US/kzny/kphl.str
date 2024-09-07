@@ -1,5 +1,5 @@
 // KPHL STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KPHL Approaches
 
@@ -48,22 +48,6 @@ KPHL;09R;GA ILS09RZ;KPHL;KPHL;5;
 OOD;OOD;<br>;
 OOD;OOD;^3000;
 //// END ILS09RZ ////
-
-//// ILSV17 ////
-KPHL;17;ILSV17;KPHL;KPHL;3;
-COWAD;COWAD;<br>;
-COWAD;COWAD;^3000;
-HYILL;HYILL;@2000;
-MA17;MA17;@410;
-ARD;ARD;<br>;
-COWAD;COWAD;
-PTW;PTW;<br>;
-COWAD;COWAD;
-
-KPHL;17;GA ILSV17;KPHL;KPHL;5;
-ARD;ARD;<br>;
-ARD;ARD;^3000;
-//// END ILSV17 ////
 
 //// ILSZ17 ////
 KPHL;17;ILSZ17;KPHL;KPHL;3;

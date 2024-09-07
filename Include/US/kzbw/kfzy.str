@@ -1,5 +1,5 @@
 // KFZY STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KFZY Approaches
 
@@ -37,8 +37,10 @@ IFIZE;IFIZE;^3600;
 WIELD;WIELD;@2100;
 IFIZE;IFIZE;
 OSYOB;OSYOB;<br>;
+OSYOB;OSYOB;@210K;
 IFIZE;IFIZE;
 WUJFE;WUJFE;<br>;
+WUJFE;WUJFE;@210K;
 IFIZE;IFIZE;
 
 KFZY;24;GA RNV24;KFZY;KFZY;5;

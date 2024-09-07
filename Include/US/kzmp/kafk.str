@@ -1,34 +1,8 @@
 // KAFK STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KAFK Approaches
 
-
-//// NDB15 ////
-KAFK;15;NDB15;KAFK;KAFK;3;
-FF15;FF15;<br>;
-FF15;FF15;@3000;
-OVR;OVR;<br>;
-AFK;AFK;^3000 @210K @210K @210K;
-FF15;FF15;
-
-KAFK;15;GA NDB15;KAFK;KAFK;5;
-AFK;AFK;<br>;
-AFK;AFK;
-//// END NDB15 ////
-
-//// NDB33 ////
-KAFK;33;NDB33;KAFK;KAFK;3;
-FF33;FF33;<br>;
-FF33;FF33;@3000;
-OVR;OVR;<br>;
-AFK;AFK;^3000 @210K @210K @210K;
-FF33;FF33;
-
-KAFK;33;GA NDB33;KAFK;KAFK;5;
-AFK;AFK;<br>;
-AFK;AFK;
-//// END NDB33 ////
 
 //// RNV15 ////
 KAFK;15;RNV15;KAFK;KAFK;3;

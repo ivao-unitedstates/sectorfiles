@@ -1,5 +1,5 @@
 // KFKN STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KFKN Approaches
 
@@ -27,11 +27,12 @@ JADIM;JADIM;<br>;
 JADIM;JADIM;^2600;
 OBERE;OBERE;@1700;
 FOVPO;FOVPO;^800;
-EDTAJ;EDTAJ;<br>;
-JADIM;JADIM;
 HPW;HPW;<br>;
 DRIVE;DRIVE;^2600;
 JADIM;JADIM;
+JADIM;JADIM;
+SUNNS;SUNNS;<br>;
+EDTAJ;EDTAJ;^2600;
 JADIM;JADIM;
 
 KFKN;27;GA RNV27;KFKN;KFKN;5;

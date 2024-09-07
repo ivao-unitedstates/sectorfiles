@@ -1,8 +1,25 @@
 // KCVH STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KCVH Approaches
 
+
+//// RNV13 ////
+KCVH;13;RNV13;KCVH;KCVH;3;
+FFARM;FFARM;<br>;
+FFARM;FFARM;^4300;
+KROPS;KROPS;@2500;
+BORED;BORED;<br>;
+YMATO;YMATO;^5000;
+FFARM;FFARM;
+SANTY;SANTY;<br>;
+YSDRO;YSDRO;^5000;
+FFARM;FFARM;
+
+KCVH;13;GA RNV13;KCVH;KCVH;5;
+SANTY;SANTY;<br>;
+SANTY;SANTY;^7000 @200K;
+//// END RNV13 ////
 
 //// RNV31 ////
 KCVH;31;RNV31;KCVH;KCVH;3;

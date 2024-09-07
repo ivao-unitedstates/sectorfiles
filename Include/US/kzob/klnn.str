@@ -1,21 +1,8 @@
 // KLNN STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KLNN Approaches
 
-
-//// NDB10 ////
-KLNN;10;NDB10;KLNN;KLNN;3;
-FF10;FF10;<br>;
-FF10;FF10;@3000;
-CXR;CXR;<br>;
-LQL;LQL;^3000 @210K @210K @210K;
-FF10;FF10;
-
-KLNN;10;GA NDB10;KLNN;KLNN;5;
-LQL;LQL;<br>;
-LQL;LQL;
-//// END NDB10 ////
 
 //// RNV05 ////
 KLNN;05;RNV05;KLNN;KLNN;3;

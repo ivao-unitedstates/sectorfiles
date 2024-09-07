@@ -1,5 +1,5 @@
 // KAND STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KAND Approaches
 
@@ -92,8 +92,6 @@ UTOTE;UTOTE;^3200;
 KAND;05;VOR05;KAND;KAND;3;
 ELW;ELW;<br>;
 ELW;ELW;@2500;
-ELW;ELW;
-HARTI;HARTI;<br>;
 ELW;ELW;
 
 KAND;05;GA VOR05;KAND;KAND;5;

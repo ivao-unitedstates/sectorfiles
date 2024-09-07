@@ -1,19 +1,8 @@
 // KMTH STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KMTH Approaches
 
-
-//// NDBA07 ////
-KMTH;07;NDBA07;KMTH;KMTH;3;
-MTH;MTH;<br>;
-MTH;MTH;@1000 @210K @210K @210K;
-MTH;MTH;
-
-KMTH;07;GA NDBA07;KMTH;KMTH;5;
-MTH;MTH;<br>;
-MTH;MTH;^2100;
-//// END NDBA07 ////
 
 //// RNV07 ////
 KMTH;07;RNV07;KMTH;KMTH;3;

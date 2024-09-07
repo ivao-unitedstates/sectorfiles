@@ -1,5 +1,5 @@
 // KPJC STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 9/7/2024 by Wes Sleeman (XA)
 
 // KPJC Approaches
 
@@ -17,8 +17,8 @@ VOLAN;VOLAN;<br>;
 DEUSO;DEUSO;
 
 KPJC;17;GA RNV17;KPJC;KPJC;5;
-EDAPY;EDAPY;<br>;
-EDAPY;EDAPY;^3100;
+DEUSO;DEUSO;<br>;
+DEUSO;DEUSO;^3000;
 //// END RNV17 ////
 
 //// RNV35 ////
@@ -26,7 +26,7 @@ KPJC;35;RNV35;KPJC;KPJC;3;
 EDAPY;EDAPY;<br>;
 EDAPY;EDAPY;^3100;
 OTIKE;OTIKE;@2800;
-CIBAT;CIBAT;^1780;
+CIBAT;CIBAT;^1760;
 CETPU;CETPU;<br>;
 EDAPY;EDAPY;
 EWC;EWC;<br>;
