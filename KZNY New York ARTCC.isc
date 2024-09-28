@@ -12,22 +12,37 @@ F;default.atis
 F;cpdlc.cpdlc
 
 [DEFINE]
-
+//airports
 TAXIWAY;#2f2f2f;
 APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
-RUNWAY;#000000;
-//N90_JFK_4S;#363636;
-//N90_JFK_13S;#363636;
-//N90_JFK_22S;#363636;
+RUNWAY;#101010;
+
+//sectors
+
+KEWR_APP;#363636;
+KEWR_NE_FLOW;#363636;
+KEWR_SW_FLOW;#363636;
+
 KJFK_APP;#363636;
-//N90_JFK_31S;#363636;
-//N90_LGA;#363636;
-//N90_EWR;#363636;
-//N90_ISP;#363636;
-//PHL;#363636;
+KJFK_04_FLOW;#363636;
+KJFK_13_FLOW;#363636;
+KJFK_22_FLOW;#363636;
+KJFK_31_FLOW;#363636;
+
+
+KLGA_APP;#363636;
+KLGA_04_FLOW;#363636;
+KLGA_13_FLOW;#363636;
+KLGA_22_FLOW;#363636;
+KLGA_31_FLOW;#363636;
+
 KPHL_APP;#363636;
+
+
+
+//tracon maps
 //ABE;#363636;
 //AVP;#363636;
 //BGM;#363636;
@@ -35,6 +50,14 @@ KPHL_APP;#363636;
 //MDT;#363636;
 //RDG;#363636;
 //WRI;#363636;
+//N90_JFK_31S;#363636;
+//N90_LGA;#363636;
+//N90_EWR;#363636;
+//N90_ISP;#363636;
+//PHL;#363636;
+//N90_JFK_4S;#363636;
+//N90_JFK_13S;#363636;
+//N90_JFK_22S;#363636;
 
 [ATC]
 F;atc.atc
@@ -64,22 +87,22 @@ F;airac\awlow.awl
 F;airspace\kzny.artcc
 
 [ARTCC HIGH]
-F;airspace\n90.artcc
-F;airspace\wri.artcc
-F;airspace\rdg.artcc
-F;airspace\mdt.artcc
-F;airspace\elm.artcc
-F;airspace\bgm.artcc
-F;airspace\avp.artcc
-F;airspace\abe.artcc
-F;airspace\swf.artcc
-F;airspace\lga.artcc
-F;airspace\isp.artcc
-F;airspace\jfk.artcc
-F;airspace\phl.artcc
-F;airspace\ewr.artcc
-F;airspace\iad.artcc
-F;airspace\bwi.artcc
+//F;airspace\n90.artcc
+//F;airspace\wri.artcc
+//F;airspace\rdg.artcc
+//F;airspace\mdt.artcc
+//F;airspace\elm.artcc
+//F;airspace\bgm.artcc
+//F;airspace\avp.artcc
+//F;airspace\abe.artcc
+//F;airspace\swf.artcc
+//F;airspace\lga.artcc
+//F;airspace\isp.artcc
+//F;airspace\jfk.artcc
+//F;airspace\phl.artcc
+//F;airspace\ewr.artcc
+//F;airspace\iad.artcc
+//F;airspace\bwi.artcc
 
 [ARTCC LOW]
 F;airspace\class b.artcc
@@ -113,6 +136,8 @@ F;app\KJFK_APP.geo
 F;app\n90_lga.geo
 F;app\kphl_tracon.geo
 F;app\KPHL_APP.geo
+F;app\KLGA_APP.geo
+F;app\KEWR_APP.geo
 F;app\kwri_tracon.geo
 F;app\krdg_tracon.geo
 F;app\n90_outline.geo
