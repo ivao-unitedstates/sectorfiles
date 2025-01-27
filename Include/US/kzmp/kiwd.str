@@ -1,5 +1,5 @@
 // KIWD STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KIWD Approaches
 
@@ -34,11 +34,10 @@ KIWD;09;RNV09;KIWD;KIWD;3;
 GODSE;GODSE;<br>;
 GODSE;GODSE;^3500;
 ELAZY;ELAZY;@3000;
+HITAP;HITAP;^1900;
 CITOT;CITOT;<br>;
-CITOT;CITOT;^3500;
 GODSE;GODSE;
 FAVOD;FAVOD;<br>;
-FAVOD;FAVOD;^3500;
 GODSE;GODSE;
 GODSE;GODSE;
 

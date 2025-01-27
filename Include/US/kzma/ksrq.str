@@ -1,5 +1,5 @@
 // KSRQ STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KSRQ Approaches
 
@@ -103,19 +103,6 @@ KSRQ;32;GA RNV32;KSRQ;KSRQ;5;
 ACIPU;ACIPU;<br>;
 PAIRS;PAIRS;^3000;
 //// END RNV32 ////
-
-//// VOR14 ////
-KSRQ;14;VOR14;KSRQ;KSRQ;3;
-FF14;FF14;<br>;
-FF14;FF14;@1700;
-JELSU;JELSU;^520;
-SRQ;SRQ;@135 @210K @210K @210K;
-FF14;FF14;
-
-KSRQ;14;GA VOR14;KSRQ;KSRQ;5;
-MURDO;MURDO;<br>;
-MURDO;MURDO;^3000;
-//// END VOR14 ////
 
 // KSRQ Arrivals
 

@@ -1,20 +1,8 @@
 // KRSV STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KRSV Approaches
 
-
-//// NDB17 ////
-KRSV;17;NDB17;KRSV;KRSV;3;
-FN17;FN17;<br>;
-FN17;FN17;@2200;
-LISLE;LISLE;<br>;
-PLX;PLX;^2600 @210K @210K @210K;
-FN17;FN17;
-
-KRSV;17;GA NDB17;KRSV;KRSV;5;
-PLX;PLX;<br>;
-//// END NDB17 ////
 
 //// RNV09 ////
 KRSV;09;RNV09;KRSV;KRSV;3;

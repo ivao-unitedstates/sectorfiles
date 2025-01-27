@@ -1,5 +1,5 @@
 // KBPK STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KBPK Approaches
 
@@ -14,8 +14,8 @@ HRO;HRO;<br>;
 COYAB;COYAB;
 
 KBPK;05;GA ILS05;KBPK;KBPK;5;
-HRO;HRO;<br>;
-HRO;HRO;^3500;
+COYAB;COYAB;<br>;
+COYAB;COYAB;^3100;
 //// END ILS05 ////
 
 //// RNV05 ////
@@ -27,8 +27,7 @@ BERGG;BERGG;<br>;
 GEYTE;GEYTE;^3100;
 COYAB;COYAB;
 COYAB;COYAB;
-INNAM;INNAM;<br>;
-HEGEG;HEGEG;^3100;
+HEGEG;HEGEG;<br>;
 COYAB;COYAB;
 
 KBPK;05;GA RNV05;KBPK;KBPK;5;

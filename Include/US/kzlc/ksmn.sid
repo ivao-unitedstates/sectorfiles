@@ -1,5 +1,5 @@
 // KSMN SIDs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 
 //// AHEHU3 ////
@@ -20,3 +20,14 @@ OMIXE;OMIXE;<br>;
 AHEHU;AHEHU;
 FIPFE;FIPFE;@230K;
 //// END AHEHU3 ////
+
+//// ORELE1 ////
+KSMN;35;ORELE1;KSMN;KSMN;
+BRKWY;BRKWY;<br>;
+BRKWY;BRKWY;^6000 @210K;
+LOWSE;LOWSE;
+MEWLS;MEWLS;^9900;
+NUBIE;NUBIE;
+ORELE;ORELE;^13600;
+
+//// END ORELE1 ////

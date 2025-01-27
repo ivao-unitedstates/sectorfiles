@@ -1,5 +1,5 @@
 // KFWN STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KFWN Approaches
 
@@ -18,27 +18,3 @@ KFWN;03;GA RNV03;KFWN;KFWN;5;
 SAX;SAX;<br>;
 SAX;SAX;^3000;
 //// END RNV03 ////
-
-//// VORA03 ////
-KFWN;03;VORA03;KFWN;KFWN;3;
-SAX;SAX;<br>;
-SAX;SAX;@3000;
-ANKLE;ANKLE;^1820;
-SAX;SAX;
-
-KFWN;03;GA VORA03;KFWN;KFWN;5;
-SAX;SAX;<br>;
-SAX;SAX;^3000;
-//// END VORA03 ////
-
-//// VORA21 ////
-KFWN;21;VORA21;KFWN;KFWN;3;
-SAX;SAX;<br>;
-SAX;SAX;@3000;
-ANKLE;ANKLE;^1820;
-SAX;SAX;
-
-KFWN;21;GA VORA21;KFWN;KFWN;5;
-SAX;SAX;<br>;
-SAX;SAX;^3000;
-//// END VORA21 ////

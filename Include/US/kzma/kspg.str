@@ -1,20 +1,8 @@
 // KSPG STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KSPG Approaches
 
-
-//// VDM18 ////
-KSPG;18;VDM18;KSPG;KSPG;3;
-PIE;PIE;<br>;
-PIE;PIE;^2700;
-WUXUT;WUXUT;@1700;
-PIE;PIE;
-
-KSPG;18;GA VDM18;KSPG;KSPG;5;
-PIE;PIE;<br>;
-PIE;PIE;^2700;
-//// END VDM18 ////
 
 //// RNV07 ////
 KSPG;07;RNV07;KSPG;KSPG;3;
@@ -38,7 +26,7 @@ PHIEL;PHIEL;^2000;
 KSPG;18;RNV18;KSPG;KSPG;3;
 PIE;PIE;<br>;
 PIE;PIE;^2000;
-KENVE;KENVE;@1700;
+RUTHV;RUTHV;@1700;
 PICOL;PICOL;@260;
 PIE;PIE;
 

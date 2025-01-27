@@ -1,0 +1,19 @@
+// KLAL SIDs
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
+
+
+//// OWAYY1 ////
+KLAL;10;OWAYY1;KLAL;KLAL;
+OWAYY;OWAYY;<br>;
+OWAYY;OWAYY;@2000;
+
+//// END OWAYY1 ////
+
+//// SBOAT1 ////
+KLAL;10;SBOAT1;KLAL;KLAL;
+WEMLA;WEMLA;<br>;
+WEMLA;WEMLA;^1500;
+RAVME;RAVME;@210K;
+SBOAT;SBOAT;@2000;
+
+//// END SBOAT1 ////

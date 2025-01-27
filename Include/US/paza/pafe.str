@@ -1,23 +1,8 @@
 // PAFE STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // PAFE Approaches
 
-
-//// NDM11 ////
-PAFE;11;NDM11;PAFE;PAFE;3;
-UPAKY;UPAKY;<br>;
-UPAKY;UPAKY;@2400;
-FELEN;FELEN;@416;
-SQM;SQM;<br>;
-AFE;AFE;^4800;
-UPAKY;UPAKY;^4300 @210K @210K @210K;
-UPAKY;UPAKY;
-
-PAFE;11;GA NDM11;PAFE;PAFE;5;
-UPAKY;UPAKY;<br>;
-UPAKY;UPAKY;^4300;
-//// END NDM11 ////
 
 //// RNV11 ////
 PAFE;11;RNV11;PAFE;PAFE;3;

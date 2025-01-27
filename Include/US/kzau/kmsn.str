@@ -1,5 +1,5 @@
 // KMSN STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KMSN Approaches
 
@@ -9,6 +9,9 @@ KMSN;18;ILS18;KMSN;KMSN;3;
 GATNE;GATNE;<br>;
 GATNE;GATNE;^2700;
 RUKIY;RUKIY;@2500;
+DECAL;DECAL;<br>;
+DECAL;DECAL;^3000;
+GATNE;GATNE;
 DLL;DLL;<br>;
 DECAL;DECAL;^3000;
 GATNE;GATNE;

@@ -1,5 +1,5 @@
 // KMQJ STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KMQJ Approaches
 
@@ -18,6 +18,23 @@ KMQJ;25;GA ILS25;KMQJ;KMQJ;5;
 SHB;SHB;<br>;
 SHB;SHB;^2400;
 //// END ILS25 ////
+
+//// RNV07 ////
+KMQJ;07;RNV07;KMQJ;KMQJ;3;
+GADME;GADME;<br>;
+GADME;GADME;^2900;
+EMOKE;EMOKE;@2500;
+EMBOY;EMBOY;^1840;
+AROPE;AROPE;<br>;
+GADME;GADME;
+FERBO;FERBO;<br>;
+GADME;GADME;
+GADME;GADME;
+
+KMQJ;07;GA RNV07;KMQJ;KMQJ;5;
+FOGBU;FOGBU;<br>;
+FOGBU;FOGBU;^2700;
+//// END RNV07 ////
 
 //// RNV16 ////
 KMQJ;16;RNV16;KMQJ;KMQJ;3;

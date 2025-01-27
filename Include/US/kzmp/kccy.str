@@ -1,22 +1,8 @@
 // KCCY STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KCCY Approaches
 
-
-//// LOC12 ////
-KCCY;12;LOC12;KCCY;KCCY;3;
-CFBWS;CFBWS;<br>;
-CFBWS;CFBWS;^3000;
-IY;IY;@3000;
-ALO;ALO;<br>;
-IY;IY;^3000 @210K @210K @210K;
-CFBWS;CFBWS;
-
-KCCY;12;GA LOC12;KCCY;KCCY;5;
-IY;IY;<br>;
-IY;IY;^3000;
-//// END LOC12 ////
 
 //// RNV12 ////
 KCCY;12;RNV12;KCCY;KCCY;3;

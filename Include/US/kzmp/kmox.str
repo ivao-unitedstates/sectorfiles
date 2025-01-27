@@ -1,8 +1,23 @@
 // KMOX STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // KMOX Approaches
 
+
+//// VDM32 ////
+KMOX;32;VDM32;KMOX;KMOX;3;
+FF32;FF32;<br>;
+FF32;FF32;@2800;
+JEXIR;JEXIR;^1700;
+AXN;AXN;<br>;
+MOX;MOX;^3500 @210K @210K @210K;
+FF32;FF32;
+
+KMOX;32;GA VDM32;KMOX;KMOX;5;
+MOX;MOX;<br>;
+MOX;MOX;^1540;
+MOX;MOX;
+//// END VDM32 ////
 
 //// RNV14 ////
 KMOX;14;RNV14;KMOX;KMOX;3;
@@ -43,18 +58,3 @@ MOX;MOX;<br>;
 MOX;MOX;^1540;
 MOX;MOX;
 //// END VOR14 ////
-
-//// VOR32 ////
-KMOX;32;VOR32;KMOX;KMOX;3;
-FF32;FF32;<br>;
-FF32;FF32;@2800;
-JEXIR;JEXIR;^1700;
-AXN;AXN;<br>;
-MOX;MOX;^3500 @210K @210K @210K;
-FF32;FF32;
-
-KMOX;32;GA VOR32;KMOX;KMOX;5;
-MOX;MOX;<br>;
-MOX;MOX;^1540;
-MOX;MOX;
-//// END VOR32 ////

@@ -1,14 +1,10 @@
 // PAFE SIDs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 
-//// KAKE3 ////
-PAFE;11:29;KAKE3;PAFE;PAFE;
-DUKEC;DUKEC;<br>;
-DUKEC;DUKEC;^5000;
-LVD;LVD;
-DUKEC;DUKEC;<br>;
-DUKEC;DUKEC;^5000;
-LVD;LVD;
+//// KAKE1 ////
+PAFE;11:29;KAKE1;PAFE;PAFE;
+LVD;LVD;<br>;
+LVD;LVD;<br>;
 
-//// END KAKE3 ////
+//// END KAKE1 ////

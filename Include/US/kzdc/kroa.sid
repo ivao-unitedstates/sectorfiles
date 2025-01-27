@@ -1,14 +1,14 @@
 // KROA SIDs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 
-//// BUFIY3 ////
-KROA;24;BUFIY3;KROA;KROA;
+//// BUFIY4 ////
+KROA;24;BUFIY4;KROA;KROA;
 NTHEN;NTHEN;<br>;
 PHLIP;PHLIP;
 BUFIY;BUFIY;
 
-//// END BUFIY3 ////
+//// END BUFIY4 ////
 
 //// DIXXY8 ////
 KROA;24;DIXXY8;KROA;KROA;
@@ -26,12 +26,12 @@ HOKEE;HOKEE;^5000;
 
 //// END HOKEE3 ////
 
-//// MONAT3 ////
-KROA;16;MONAT3;KROA;KROA;
+//// MONAT4 ////
+KROA;16;MONAT4;KROA;KROA;
 JEMES;JEMES;<br>;
 MONAT;MONAT;
 
-//// END MONAT3 ////
+//// END MONAT4 ////
 
 //// SCUTA3 ////
 KROA;06;SCUTA3;KROA;KROA;

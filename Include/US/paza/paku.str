@@ -1,5 +1,5 @@
 // PAKU STARs
-// Auto-generated 10/4/2024 by Wes Sleeman (XA)
+// Auto-generated 1/26/2025 by Wes Sleeman (XA)
 
 // PAKU Approaches
 
@@ -11,8 +11,6 @@ CELEX;CELEX;^2000;
 BEPOW;BEPOW;@1600;
 FAMUN;FAMUN;<br>;
 FAMUN;FAMUN;
-PVQ;PVQ;
-BEPOW;BEPOW;^2000 @210K @210K @210K 
 SCC;SCC;
 BEPOW;BEPOW;^2000 @210K @210K @210K;
 CELEX;CELEX;
